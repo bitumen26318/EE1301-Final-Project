@@ -1,0 +1,88 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2868
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Arial-BoldMT;\f1\fswiss\fcharset0 ArialMT;\f2\fswiss\fcharset0 Arial-ItalicMT;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red109\green109\blue109;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c50196\c50196\c50196;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b\fs24 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Software Overview
+\f1\b0 \
+The project software is split into two parts: 
+\f0\b Particle firmware
+\f1\b0  running on the Photon, and a 
+\f0\b web-based frontend dashboard
+\f1\b0  that communicates with the Particle Cloud API.\
+\pard\pardeftab720\partightenfactor0
+\cf3 \strokec3 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b \cf0 \strokec2 Firmware (C++)
+\f1\b0 \
+The firmware is written in C++ and flashed to the Particle Photon. It is organized around a main loop that continuously reads sensor input, updates motor output, checks for lap events, and handles cloud communication.\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\i \cf0 Joystick & Motor Control
+\f1\i0 \
+The joystick's X and Y axis values are read through the Photon's analog input pins and mapped to a speed and direction value for each motor. These values are passed to the DRV8835 motor driver via PWM signals. The Y-axis controls forward and reverse throttle while the X-axis creates a speed differential between the left and right motors to produce turning.\
+
+\f2\i Lap Detection & Timing
+\f1\i0 \
+The HC-SR04 ultrasonic sensor is polled continuously during a run. When the sensor detects a distance reading below a set threshold \'97 indicating the car has passed the start/finish marker \'97 the firmware records the current timestamp and calculates the elapsed time since the last lap trigger. A debounce delay prevents the same pass from being counted multiple times.\
+
+\f2\i Velocity Estimation
+\f1\i0 \
+Since the car does not have wheel encoders, velocity is estimated by dividing a known track length constant (set in the code) by the recorded lap time. This gives an average speed per lap in meters per second, which is then converted to a more readable unit for display.\
+
+\f2\i LED Feedback
+\f1\i0 \
+After each lap is recorded, the firmware compares the current lap time against the stored best lap time. It then drives the WS2812B LED strip accordingly \'97 green for a new best, red for a slower lap, and a cycling rainbow animation if an all-time record is broken. The LED state resets at the start of the next lap.\
+
+\f2\i LCD Display
+\f1\i0 \
+The 16x2 LCD is updated after each lap to show the last lap time and estimated speed. During a run it displays a simple live timer so the driver can see elapsed time in real time.\
+
+\f2\i Cloud Publishing
+\f1\i0 \
+At the end of each lap, the Photon calls 
+\fs26 Particle.publish()
+\fs24  to push a JSON-formatted string to the Particle Cloud containing the lap number, lap time in seconds, and estimated velocity. This event is named 
+\fs26 lap_data
+\fs24  and is picked up by the web dashboard via the Particle Cloud event stream.\
+\pard\pardeftab720\partightenfactor0
+\cf3 \strokec3 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b \cf0 \strokec2 Web Dashboard (HTML / CSS / JavaScript)
+\f1\b0 \
+The frontend is a single-page web app that connects to the Particle Cloud API using the device's access token. It listens for 
+\fs26 lap_data
+\fs24  events in real time using the Particle event stream and updates the UI dynamically without requiring a page refresh.\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\i \cf0 Features
+\f1\i0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0
+\f0\b \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Live lap feed
+\f1\b0  \'97 each lap appears as a new row in a table showing lap number, time, and speed\
+\ls1\ilvl0
+\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Best lap highlight
+\f1\b0  \'97 the fastest lap is highlighted in the table and displayed prominently at the top\
+\ls1\ilvl0
+\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Velocity chart
+\f1\b0  \'97 a simple line graph plots speed across laps to show performance trends over a session\
+\ls1\ilvl0
+\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Session reset button
+\f1\b0  \'97 clears the current session data both on the dashboard and sends a reset signal back to the Photon via 
+\fs26 Particle.function()
+\fs24 \
+}
