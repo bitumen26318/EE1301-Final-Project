@@ -19,21 +19,20 @@ SYSTEM_THREAD(ENABLED);
 // View logs with CLI using 'particle serial monitor --follow'
 SerialLogHandler logHandler(LOG_LEVEL_INFO);
 
-// setup() runs once, when the device is first turned on
 void setup() {
     Serial.begin(9600);      // USB serial (for debugging)
     Serial1.begin(9600);     // HC-06 default baud rate
 }
 
 void loop() {
-    // Send data to Bluetooth
-    Serial1.println("Hello from Photon P2!");
+
 
     // Read from Bluetooth and print to Serial Monitor
     if (Serial1.available()) {
         char c = Serial1.read();
-        Serial.print(c);
+
+        Serial.println(c);
     }
 
-    delay(1000);
+    delay(50);
 }

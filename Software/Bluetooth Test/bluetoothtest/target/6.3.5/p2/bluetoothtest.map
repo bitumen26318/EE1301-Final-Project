@@ -2285,96 +2285,96 @@ Discarded input sections
                 0x00000000     0x279d ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
  .gnu.debuglto_.debug_str
                 0x00000000    0x6408c ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto_.odr_types.79d72f03
+ .gnu.lto_.odr_types.7a753d37
                 0x00000000      0xe88 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto_.profile.79d72f03
+ .gnu.lto_.profile.7a753d37
                 0x00000000        0xf ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto_.icf.79d72f03
-                0x00000000       0xe6 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto_.ipa_sra.79d72f03
+ .gnu.lto_.icf.7a753d37
+                0x00000000       0xe5 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto_.ipa_sra.7a753d37
                 0x00000000       0xbe ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto_.inline.79d72f03
-                0x00000000      0x313 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto_.jmpfuncs.79d72f03
-                0x00000000      0x276 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto_.pureconst.79d72f03
+ .gnu.lto_.inline.7a753d37
+                0x00000000      0x311 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto_.jmpfuncs.7a753d37
+                0x00000000      0x244 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto_.pureconst.7a753d37
                 0x00000000       0x61 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto_.lto.79d72f03
+ .gnu.lto_.lto.7a753d37
                 0x00000000        0x8 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN17SystemSleepResultC2Ev.2741.79d72f03
-                0x00000000      0x2c6 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN17SystemSleepResult22freeWakeupSourceMemoryEv.2770.79d72f03
-                0x00000000      0x1cb ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN11SystemClassC2E19System_Mode_TypeDef.2789.79d72f03
-                0x00000000      0x200 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN5spark10LogHandlerC2E8LogLevelNS_6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEEE.6151.79d72f03
+ .gnu.lto__ZN17SystemSleepResultC2Ev.2741.7a753d37
+                0x00000000      0x2c5 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto__ZN17SystemSleepResult22freeWakeupSourceMemoryEv.2770.7a753d37
+                0x00000000      0x1cc ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto__ZN11SystemClassC2E19System_Mode_TypeDef.2789.7a753d37
+                0x00000000      0x201 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto__ZN5spark10LogHandlerC2E8LogLevelNS_6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEEE.6151.7a753d37
                 0x00000000      0x2ac ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN5spark10LogHandler5writeEPKcj.6158.79d72f03
-                0x00000000      0x161 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN5spark10LogHandlerD2Ev.6160.79d72f03
+ .gnu.lto__ZN5spark10LogHandler5writeEPKcj.6158.7a753d37
+                0x00000000      0x162 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto__ZN5spark10LogHandlerD2Ev.6160.7a753d37
                 0x00000000      0x1d9 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN5spark10LogHandlerD0Ev.6162.79d72f03
-                0x00000000      0x16e ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN5spark16StreamLogHandlerC2ER5Print8LogLevelNS_6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEEE.6164.79d72f03
+ .gnu.lto__ZN5spark10LogHandlerD0Ev.6162.7a753d37
+                0x00000000      0x16f ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto__ZN5spark16StreamLogHandlerC2ER5Print8LogLevelNS_6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEEE.6164.7a753d37
                 0x00000000      0x2ee ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN5spark16StreamLogHandlerD2Ev.6378.79d72f03
-                0x00000000      0x1d1 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN5spark16StreamLogHandlerD0Ev.6380.79d72f03
+ .gnu.lto__ZN5spark16StreamLogHandlerD2Ev.6378.7a753d37
+                0x00000000      0x1d2 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto__ZN5spark16StreamLogHandlerD0Ev.6380.7a753d37
                 0x00000000      0x164 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN5spark16SerialLogHandlerC2E8LogLevelNS_6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEEE.6382.79d72f03
-                0x00000000      0x35b ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN5spark16SerialLogHandlerD2Ev.6388.79d72f03
+ .gnu.lto__ZN5spark16SerialLogHandlerC2E8LogLevelNS_6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEEE.6382.7a753d37
+                0x00000000      0x35c ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto__ZN5spark16SerialLogHandlerD2Ev.6388.7a753d37
                 0x00000000      0x252 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN5spark16SerialLogHandlerD0Ev.6390.79d72f03
+ .gnu.lto__ZN5spark16SerialLogHandlerD0Ev.6390.7a753d37
                 0x00000000      0x172 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN8startup3C2Ev.6448.79d72f03
+ .gnu.lto__ZN8startup3C2Ev.6448.7a753d37
                 0x00000000      0x15d ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto_setup.6452.79d72f03
+ .gnu.lto_setup.6452.7a753d37
                 0x00000000      0x13d ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto_loop.6453.79d72f03
-                0x00000000      0x30b ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN5spark6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEEC2ERKS3_.8980.79d72f03
+ .gnu.lto_loop.6453.7a753d37
+                0x00000000      0x2ad ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto__ZN5spark6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEEC2ERKS3_.8980.7a753d37
                 0x00000000      0x2de ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN5spark6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEED2Ev.8983.79d72f03
-                0x00000000      0x27f ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN5spark6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEE7reallocIS1_Li0EEEbi.10099.79d72f03
-                0x00000000      0x3e6 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN5spark17LogCategoryFilterC2ERKS0_.10101.79d72f03
+ .gnu.lto__ZN5spark6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEED2Ev.8983.7a753d37
+                0x00000000      0x280 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto__ZN5spark6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEE7reallocIS1_Li0EEEbi.10099.7a753d37
+                0x00000000      0x3e7 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto__ZN5spark17LogCategoryFilterC2ERKS0_.10101.7a753d37
                 0x00000000      0x21c ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN5spark6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEE4copyIPS1_EEvT_S6_S6_.10103.79d72f03
+ .gnu.lto__ZN5spark6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEE4copyIPS1_EEvT_S6_S6_.10103.7a753d37
                 0x00000000      0x307 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN5spark6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEE8destructEPS1_PKS1_.10107.79d72f03
-                0x00000000      0x2a4 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN5spark17LogCategoryFilterC2EOS0_.10870.79d72f03
-                0x00000000      0x217 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN5spark6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEE4moveIS1_Li0EEEvPS1_S5_S5_.10872.79d72f03
-                0x00000000      0x4b2 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZTVN5spark16SerialLogHandlerE.11564.79d72f03
+ .gnu.lto__ZN5spark6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEE8destructEPS1_PKS1_.10107.7a753d37
+                0x00000000      0x2a5 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto__ZN5spark17LogCategoryFilterC2EOS0_.10870.7a753d37
+                0x00000000      0x218 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto__ZN5spark6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEE4moveIS1_Li0EEEvPS1_S5_S5_.10872.7a753d37
+                0x00000000      0x4b3 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto__ZTVN5spark16SerialLogHandlerE.11564.7a753d37
                 0x00000000       0x59 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZTVN5spark16StreamLogHandlerE.11571.79d72f03
+ .gnu.lto__ZTVN5spark16StreamLogHandlerE.11571.7a753d37
                 0x00000000       0x59 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZTVN5spark10LogHandlerE.11572.79d72f03
+ .gnu.lto__ZTVN5spark10LogHandlerE.11572.7a753d37
                 0x00000000       0x55 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__Z41__static_initialization_and_destruction_0ii.11678.79d72f03
-                0x00000000      0xa1c ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__GLOBAL__sub_I_SystemMode.11846.79d72f03
+ .gnu.lto__Z41__static_initialization_and_destruction_0ii.11678.7a753d37
+                0x00000000      0xa1b ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto__GLOBAL__sub_I_SystemMode.11846.7a753d37
                 0x00000000       0xf2 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__GLOBAL__sub_D_SystemMode.11847.79d72f03
+ .gnu.lto__GLOBAL__sub_D_SystemMode.11847.7a753d37
                 0x00000000       0xf2 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN5spark6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEE4moveIS1_Li0EEEvPS1_S5_S5_.part.0.11882.79d72f03
-                0x00000000      0x4f8 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto__ZN5spark6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEEC2ERKS3_.part.0.11884.79d72f03
-                0x00000000      0x2a0 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto_.symbol_nodes.79d72f03
-                0x00000000      0x5e7 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto_.refs.79d72f03
+ .gnu.lto__ZN5spark6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEE4moveIS1_Li0EEEvPS1_S5_S5_.part.0.11881.7a753d37
+                0x00000000      0x4f9 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto__ZN5spark6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEEC2ERKS3_.part.0.11883.7a753d37
+                0x00000000      0x2a1 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto_.symbol_nodes.7a753d37
+                0x00000000      0x5db ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto_.refs.7a753d37
                 0x00000000       0xbb ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto_.decls.79d72f03
-                0x00000000     0x3f92 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto_.symtab.79d72f03
-                0x00000000     0x15b9 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .gnu.lto_.ext_symtab.79d72f03
-                0x00000000       0x85 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto_.decls.7a753d37
+                0x00000000     0x3ee3 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto_.symtab.7a753d37
+                0x00000000     0x1596 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .gnu.lto_.ext_symtab.7a753d37
+                0x00000000       0x83 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
  .gnu.lto_.opts
                 0x00000000      0x1bc ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
  .text.exit._GLOBAL__sub_D_SystemMode
@@ -25029,7 +25029,7 @@ Discarded input sections
                 0x00000000        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
  .text._ZN5Print5printEPK19__FlashStringHelper
                 0x00000000        0x8 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
- .text._ZN5Print7printlnEc
+ .text._ZN5Print7printlnEPKc
                 0x00000000       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
  .text._ZN5Print7printlnERK9Printable
                 0x00000000       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
@@ -103707,7 +103707,7 @@ BACKUPSRAM_SYSTEM 0x1007b000         0x00000400         xrw
 APP_FLASH        0x085fc000         0x00004000         xr
 SRAM             0x1007ae52         0x000001ae         xrw
 SECURE_SRAM      0x1007d000         0x00001000         xrw
-PSRAM            0x023fd0be         0x00002f42         xrw
+PSRAM            0x023fd0e6         0x00002f1a         xrw
 *default*        0x00000000         0xffffffff
 
 Linker script and memory map
@@ -103748,7 +103748,7 @@ END GROUP
                 0x00000001                platform_user_part_trimmed = 0x1
                 0x00000048                platform_module_info_suffix_size = 0x48
                 0x000001ae                platform_user_part_static_ram_size = 0x1ae
-                0x00002f42                platform_user_part_psram_size = 0x2f42
+                0x00002f1a                platform_user_part_psram_size = 0x2f1a
                 0x00004000                platform_user_part_flash_size = 0x4000
                 0x00077000                platform_ram_size = 0x77000
                 0x10005000                platform_ram_start = 0x10005000
@@ -103789,18 +103789,18 @@ END GROUP
                 0x000001ae                platform_user_part_static_ram_size = DEFINED (platform_user_part_static_ram_size)?platform_user_part_static_ram_size:0x20000
                 0x1007b000                platform_user_part_static_ram_end = platform_system_backup_ram_start
                 0x1007ae52                platform_user_part_static_ram_start = (platform_user_part_static_ram_end - platform_user_part_static_ram_size)
-                0x00002f42                platform_user_part_psram_size = DEFINED (platform_user_part_psram_size)?platform_user_part_psram_size:0x200000
+                0x00002f1a                platform_user_part_psram_size = DEFINED (platform_user_part_psram_size)?platform_user_part_psram_size:0x200000
                 0x02400000                platform_user_part_psram_end = platform_psram_end
-                0x023fd0be                platform_user_part_psram_start = (platform_user_part_psram_end - platform_user_part_psram_size)
+                0x023fd0e6                platform_user_part_psram_start = (platform_user_part_psram_end - platform_user_part_psram_size)
                 0x00001000                platform_user_part_secure_ram_size = 0x1000
                 0x1007e000                platform_user_part_secure_ram_end = platform_modular_firmware_secure_stack_start
                 0x1007d000                platform_user_part_secure_ram_start = (platform_user_part_secure_ram_end - platform_user_part_secure_ram_size)
                 0x00073e52                platform_system_part1_static_ram_size = (((platform_ram_size - platform_backup_ram_all_size) - platform_modular_firmware_stack_size) - platform_user_part_static_ram_size)
                 0x10005000                platform_system_part1_static_ram_start = platform_ram_start
                 0x10078e52                platform_system_part1_static_ram_end = (platform_system_part1_static_ram_start + platform_system_part1_static_ram_size)
-                0x003fd0be                platform_system_part1_psram_size = (platform_psram_size - platform_user_part_psram_size)
+                0x003fd0e6                platform_system_part1_psram_size = (platform_psram_size - platform_user_part_psram_size)
                 0x02000000                platform_system_part1_psram_start = platform_psram_start
-                0x023fd0be                platform_system_part1_psram_end = (platform_system_part1_psram_start + platform_system_part1_psram_size)
+                0x023fd0e6                platform_system_part1_psram_end = (platform_system_part1_psram_start + platform_system_part1_psram_size)
                 0x00000000                platform_system_part1_secure_ram_size = ((platform_secure_ram_size - platform_modular_firmware_secure_stack_size) - platform_user_part_secure_ram_size)
                 0x1007d000                platform_system_part1_secure_ram_start = platform_secure_ram_start
                 0x1007d000                platform_system_part1_secure_ram_end = (platform_system_part1_secure_ram_start + platform_system_part1_secure_ram_size)
@@ -103966,901 +103966,900 @@ END GROUP
  *(.note.gnu.build-id)
                 0x085fc0a4                link_gnu_build_id_location_end = .
 
-.dynalib        0x023fd0c0        0x8 load address 0x085fc0a8
+.dynalib        0x023fd0e8        0x8 load address 0x085fc0a8
                 0x085fc0a8                link_dynalib_flash_start = LOADADDR (.dynalib)
-                0x023fd0c0                link_dynalib_start = .
+                0x023fd0e8                link_dynalib_start = .
  *(*.user_part_module)
  .rodata.user_part_module
-                0x023fd0c0        0x8 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/user_module.o
-                0x023fd0c0                user_part_module
-                0x023fd0c8                . = ALIGN (0x4)
-                0x023fd0c8                link_dynalib_end = .
+                0x023fd0e8        0x8 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/user_module.o
+                0x023fd0e8                user_part_module
+                0x023fd0f0                . = ALIGN (0x4)
+                0x023fd0f0                link_dynalib_end = .
 
-.psram_text     0x023fd0c8     0x2f30 load address 0x085fc0b0
+.psram_text     0x023fd0f0     0x2f08 load address 0x085fc0b0
                 0x085fc0b0                link_psram_code_flash_start = LOADADDR (.psram_text)
-                0x023fd0c8                link_psram_code_start = .
+                0x023fd0f0                link_psram_code_start = .
  *(.flashtext)
  *(.text)
- .text          0x023fd0c8       0x14 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-strcmp.o)
-                0x023fd0c8                strcmp
- .text          0x023fd0dc       0x10 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-strlen.o)
-                0x023fd0dc                strlen
+ .text          0x023fd0f0       0x14 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-strcmp.o)
+                0x023fd0f0                strcmp
+ .text          0x023fd104       0x10 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-strlen.o)
+                0x023fd104                strlen
  *(.text.*)
  .text.module_user_init
-                0x023fd0ec       0x28 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/user_export.o
-                0x023fd0ec                module_user_init
+                0x023fd114       0x28 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/user_export.o
+                0x023fd114                module_user_init
  .text.module_user_setup
-                0x023fd114        0x4 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/user_export.o
-                0x023fd114                module_user_setup
+                0x023fd13c        0x4 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/user_export.o
+                0x023fd13c                module_user_setup
  .text.module_user_loop
-                0x023fd118        0xe c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/user_export.o
-                0x023fd118                module_user_loop
- .text._Znwj    0x023fd126        0x4 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/newlib_stubs.o
-                0x023fd126                operator new(unsigned int)
- .text._Znaj    0x023fd12a        0x4 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/newlib_stubs.o
-                0x023fd12a                operator new[](unsigned int)
- .text._ZdlPvj  0x023fd12e        0x4 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/newlib_stubs.o
-                0x023fd12e                operator delete(void*, unsigned int)
- *fill*         0x023fd132        0x2 
+                0x023fd140        0xe c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/user_export.o
+                0x023fd140                module_user_loop
+ .text._Znwj    0x023fd14e        0x4 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/newlib_stubs.o
+                0x023fd14e                operator new(unsigned int)
+ .text._Znaj    0x023fd152        0x4 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/newlib_stubs.o
+                0x023fd152                operator new[](unsigned int)
+ .text._ZdlPvj  0x023fd156        0x4 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/newlib_stubs.o
+                0x023fd156                operator delete(void*, unsigned int)
+ *fill*         0x023fd15a        0x2 
  .text.__cxa_pure_virtual
-                0x023fd134       0x30 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/newlib_stubs.o
-                0x023fd134                __cxa_pure_virtual
+                0x023fd15c       0x30 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/newlib_stubs.o
+                0x023fd15c                __cxa_pure_virtual
  .text.__register_exitproc
-                0x023fd164        0x2 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/newlib_stubs.o
-                0x023fd164                __register_exitproc
+                0x023fd18c        0x2 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/newlib_stubs.o
+                0x023fd18c                __register_exitproc
  .text._ZN5spark10LogHandler5writeEPKcj
-                0x023fd166        0x2 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
-                0x023fd166                spark::LogHandler::write(char const*, unsigned int)
+                0x023fd18e        0x2 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+                0x023fd18e                spark::LogHandler::write(char const*, unsigned int)
  .text._ZN5spark16SerialLogHandlerD2Ev
-                0x023fd168       0x34 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
-                0x023fd168                spark::SerialLogHandler::~SerialLogHandler()
-                0x023fd168                spark::SerialLogHandler::~SerialLogHandler()
+                0x023fd190       0x34 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+                0x023fd190                spark::SerialLogHandler::~SerialLogHandler()
+                0x023fd190                spark::SerialLogHandler::~SerialLogHandler()
  .text._ZN5spark16SerialLogHandlerD0Ev
-                0x023fd19c       0x14 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
-                0x023fd19c                spark::SerialLogHandler::~SerialLogHandler()
- .text.setup    0x023fd1b0       0x1e ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
-                0x023fd1b0                setup
- *fill*         0x023fd1ce        0x2 
- .text.loop     0x023fd1d0       0x40 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
-                0x023fd1d0                loop
+                0x023fd1c4       0x14 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+                0x023fd1c4                spark::SerialLogHandler::~SerialLogHandler()
+ .text.setup    0x023fd1d8       0x1e ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+                0x023fd1d8                setup
+ .text.loop     0x023fd1f6       0x2e ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+                0x023fd1f6                loop
  .text._ZN5spark6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEED2Ev
-                0x023fd210       0x26 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
-                0x023fd210                spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>::~Vector()
-                0x023fd210                spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>::~Vector()
+                0x023fd224       0x26 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+                0x023fd224                spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>::~Vector()
+                0x023fd224                spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>::~Vector()
  .text._ZN5spark6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEE4moveIS1_Li0EEEvPS1_S5_S5_
-                0x023fd236       0x5c ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
-                0x023fd236                void spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>::move<spark::LogCategoryFilter, 0>(spark::LogCategoryFilter*, spark::LogCategoryFilter*, spark::LogCategoryFilter*)
+                0x023fd24a       0x5c ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+                0x023fd24a                void spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>::move<spark::LogCategoryFilter, 0>(spark::LogCategoryFilter*, spark::LogCategoryFilter*, spark::LogCategoryFilter*)
  .text._ZN5spark6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEEC2ERKS3_
-                0x023fd292       0x66 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
-                0x023fd292                spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>::Vector(spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator> const&)
-                0x023fd292                spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>::Vector(spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator> const&)
+                0x023fd2a6       0x66 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+                0x023fd2a6                spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>::Vector(spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator> const&)
+                0x023fd2a6                spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>::Vector(spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator> const&)
  .text.startup._GLOBAL__sub_I_SystemMode
-                0x023fd2f8       0xac ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+                0x023fd30c       0xac ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
  .text.netdb_freeaddrinfo
-                0x023fd3a4       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_netdb.o)
-                0x023fd3a4                netdb_freeaddrinfo
+                0x023fd3b8       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_netdb.o)
+                0x023fd3b8                netdb_freeaddrinfo
  .text.netdb_getaddrinfo_ex
-                0x023fd3c0       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_netdb.o)
-                0x023fd3c0                netdb_getaddrinfo_ex
+                0x023fd3d4       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_netdb.o)
+                0x023fd3d4                netdb_getaddrinfo_ex
  .text.if_get_by_index
-                0x023fd3dc       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_ifapi.o)
-                0x023fd3dc                if_get_by_index
+                0x023fd3f0       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_ifapi.o)
+                0x023fd3f0                if_get_by_index
  .text.HAL_RNG_GetRandomNumber
-                0x023fd3f8       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_dynalib.o)
-                0x023fd3f8                HAL_RNG_GetRandomNumber
+                0x023fd40c       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_dynalib.o)
+                0x023fd40c                HAL_RNG_GetRandomNumber
  .text.HAL_Timer_Get_Milli_Seconds
-                0x023fd414       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_dynalib.o)
-                0x023fd414                HAL_Timer_Get_Milli_Seconds
+                0x023fd428       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_dynalib.o)
+                0x023fd428                HAL_Timer_Get_Milli_Seconds
  .text.os_mutex_recursive_create
-                0x023fd430       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_concurrent.o)
-                0x023fd430                os_mutex_recursive_create
+                0x023fd444       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_concurrent.o)
+                0x023fd444                os_mutex_recursive_create
  .text.os_mutex_recursive_destroy
-                0x023fd44c       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_concurrent.o)
-                0x023fd44c                os_mutex_recursive_destroy
+                0x023fd460       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_concurrent.o)
+                0x023fd460                os_mutex_recursive_destroy
  .text.os_mutex_recursive_lock
-                0x023fd468       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_concurrent.o)
-                0x023fd468                os_mutex_recursive_lock
+                0x023fd47c       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_concurrent.o)
+                0x023fd47c                os_mutex_recursive_lock
  .text.os_mutex_recursive_unlock
-                0x023fd484       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_concurrent.o)
-                0x023fd484                os_mutex_recursive_unlock
+                0x023fd498       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_concurrent.o)
+                0x023fd498                os_mutex_recursive_unlock
  .text.inet_inet_ntop
-                0x023fd4a0       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_inet.o)
-                0x023fd4a0                inet_inet_ntop
+                0x023fd4b4       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_inet.o)
+                0x023fd4b4                inet_inet_ntop
  .text.hal_usart_end
-                0x023fd4bc       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
-                0x023fd4bc                hal_usart_end
+                0x023fd4d0       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
+                0x023fd4d0                hal_usart_end
  .text.hal_usart_write
-                0x023fd4d8       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
-                0x023fd4d8                hal_usart_write
+                0x023fd4ec       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
+                0x023fd4ec                hal_usart_write
  .text.hal_usart_available
-                0x023fd4f4       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
-                0x023fd4f4                hal_usart_available
+                0x023fd508       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
+                0x023fd508                hal_usart_available
  .text.hal_usart_read
-                0x023fd510       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
-                0x023fd510                hal_usart_read
+                0x023fd524       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
+                0x023fd524                hal_usart_read
  .text.hal_usart_peek
-                0x023fd52c       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
-                0x023fd52c                hal_usart_peek
+                0x023fd540       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
+                0x023fd540                hal_usart_peek
  .text.hal_usart_flush
-                0x023fd548       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
-                0x023fd548                hal_usart_flush
+                0x023fd55c       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
+                0x023fd55c                hal_usart_flush
  .text.hal_usart_is_enabled
-                0x023fd564       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
-                0x023fd564                hal_usart_is_enabled
+                0x023fd578       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
+                0x023fd578                hal_usart_is_enabled
  .text.hal_usart_available_data_for_write
-                0x023fd580       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
-                0x023fd580                hal_usart_available_data_for_write
+                0x023fd594       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
+                0x023fd594                hal_usart_available_data_for_write
  .text.hal_usart_begin_config
-                0x023fd59c       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
-                0x023fd59c                hal_usart_begin_config
+                0x023fd5b0       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
+                0x023fd5b0                hal_usart_begin_config
  .text.hal_usart_init_ex
-                0x023fd5b8       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
-                0x023fd5b8                hal_usart_init_ex
+                0x023fd5cc       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
+                0x023fd5cc                hal_usart_init_ex
  .text.HAL_USB_USART_Init
-                0x023fd5d4       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
-                0x023fd5d4                HAL_USB_USART_Init
+                0x023fd5e8       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
+                0x023fd5e8                HAL_USB_USART_Init
  .text.HAL_USB_USART_Begin
-                0x023fd5f0       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
-                0x023fd5f0                HAL_USB_USART_Begin
+                0x023fd604       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
+                0x023fd604                HAL_USB_USART_Begin
  .text.HAL_USB_USART_End
-                0x023fd60c       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
-                0x023fd60c                HAL_USB_USART_End
+                0x023fd620       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
+                0x023fd620                HAL_USB_USART_End
  .text.HAL_USB_USART_Available_Data
-                0x023fd628       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
-                0x023fd628                HAL_USB_USART_Available_Data
+                0x023fd63c       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
+                0x023fd63c                HAL_USB_USART_Available_Data
  .text.HAL_USB_USART_Available_Data_For_Write
-                0x023fd644       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
-                0x023fd644                HAL_USB_USART_Available_Data_For_Write
+                0x023fd658       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
+                0x023fd658                HAL_USB_USART_Available_Data_For_Write
  .text.HAL_USB_USART_Receive_Data
-                0x023fd660       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
-                0x023fd660                HAL_USB_USART_Receive_Data
+                0x023fd674       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
+                0x023fd674                HAL_USB_USART_Receive_Data
  .text.HAL_USB_USART_Send_Data
-                0x023fd67c       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
-                0x023fd67c                HAL_USB_USART_Send_Data
+                0x023fd690       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
+                0x023fd690                HAL_USB_USART_Send_Data
  .text.HAL_USB_USART_Flush_Data
-                0x023fd698       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
-                0x023fd698                HAL_USB_USART_Flush_Data
+                0x023fd6ac       0x1c ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
+                0x023fd6ac                HAL_USB_USART_Flush_Data
  .text.log_level_name
-                0x023fd6b4       0x1c ../../../build/target/services-dynalib/platform-32-m/\libservices-dynalib.a(services_dynalib.o)
-                0x023fd6b4                log_level_name
+                0x023fd6c8       0x1c ../../../build/target/services-dynalib/platform-32-m/\libservices-dynalib.a(services_dynalib.o)
+                0x023fd6c8                log_level_name
  .text.log_set_callbacks
-                0x023fd6d0       0x1c ../../../build/target/services-dynalib/platform-32-m/\libservices-dynalib.a(services_dynalib.o)
-                0x023fd6d0                log_set_callbacks
+                0x023fd6e4       0x1c ../../../build/target/services-dynalib/platform-32-m/\libservices-dynalib.a(services_dynalib.o)
+                0x023fd6e4                log_set_callbacks
  .text.panic_ext
-                0x023fd6ec       0x1c ../../../build/target/services-dynalib/platform-32-m/\libservices-dynalib.a(services_dynalib.o)
-                0x023fd6ec                panic_ext
+                0x023fd700       0x1c ../../../build/target/services-dynalib/platform-32-m/\libservices-dynalib.a(services_dynalib.o)
+                0x023fd700                panic_ext
  .text.set_system_mode
-                0x023fd708       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib.o)
-                0x023fd708                set_system_mode
+                0x023fd71c       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib.o)
+                0x023fd71c                set_system_mode
  .text.system_delay_ms
-                0x023fd724       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib.o)
-                0x023fd724                system_delay_ms
+                0x023fd738       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib.o)
+                0x023fd738                system_delay_ms
  .text.system_thread_set_state
-                0x023fd740       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib.o)
-                0x023fd740                system_thread_set_state
+                0x023fd754       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib.o)
+                0x023fd754                system_thread_set_state
  .text.system_ctrl_set_app_request_handler
-                0x023fd75c       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib.o)
-                0x023fd75c                system_ctrl_set_app_request_handler
+                0x023fd770       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib.o)
+                0x023fd770                system_ctrl_set_app_request_handler
  .text.system_ctrl_set_result
-                0x023fd778       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib.o)
-                0x023fd778                system_ctrl_set_result
+                0x023fd78c       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib.o)
+                0x023fd78c                system_ctrl_set_result
  .text.network_connect
-                0x023fd794       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
-                0x023fd794                network_connect
+                0x023fd7a8       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
+                0x023fd7a8                network_connect
  .text.network_connecting
-                0x023fd7b0       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
-                0x023fd7b0                network_connecting
+                0x023fd7c4       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
+                0x023fd7c4                network_connecting
  .text.network_disconnect
-                0x023fd7cc       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
-                0x023fd7cc                network_disconnect
+                0x023fd7e0       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
+                0x023fd7e0                network_disconnect
  .text.network_ready
-                0x023fd7e8       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
-                0x023fd7e8                network_ready
+                0x023fd7fc       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
+                0x023fd7fc                network_ready
  .text.network_on
-                0x023fd804       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
-                0x023fd804                network_on
+                0x023fd818       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
+                0x023fd818                network_on
  .text.network_off
-                0x023fd820       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
-                0x023fd820                network_off
+                0x023fd834       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
+                0x023fd834                network_off
  .text.network_listen
-                0x023fd83c       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
-                0x023fd83c                network_listen
+                0x023fd850       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
+                0x023fd850                network_listen
  .text.network_listening
-                0x023fd858       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
-                0x023fd858                network_listening
+                0x023fd86c       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
+                0x023fd86c                network_listening
  .text.network_set_listen_timeout
-                0x023fd874       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
-                0x023fd874                network_set_listen_timeout
+                0x023fd888       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
+                0x023fd888                network_set_listen_timeout
  .text.network_get_listen_timeout
-                0x023fd890       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
-                0x023fd890                network_get_listen_timeout
+                0x023fd8a4       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
+                0x023fd8a4                network_get_listen_timeout
  .text.network_is_on
-                0x023fd8ac       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
-                0x023fd8ac                network_is_on
+                0x023fd8c0       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
+                0x023fd8c0                network_is_on
  .text.network_is_off
-                0x023fd8c8       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
-                0x023fd8c8                network_is_off
+                0x023fd8dc       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
+                0x023fd8dc                network_is_off
  .text.network_prefer
-                0x023fd8e4       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
-                0x023fd8e4                network_prefer
+                0x023fd8f8       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
+                0x023fd8f8                network_prefer
  .text.network_is_preferred
-                0x023fd900       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
-                0x023fd900                network_is_preferred
+                0x023fd914       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
+                0x023fd914                network_is_preferred
  .text.spark_set_random_seed_from_cloud_handler
-                0x023fd91c       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_cloud.o)
-                0x023fd91c                spark_set_random_seed_from_cloud_handler
- .text.malloc   0x023fd938       0x1c ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
-                0x023fd938                malloc
- .text.free     0x023fd954       0x1c ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
-                0x023fd954                free
- .text.realloc  0x023fd970       0x1c ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
-                0x023fd970                realloc
+                0x023fd930       0x1c ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_cloud.o)
+                0x023fd930                spark_set_random_seed_from_cloud_handler
+ .text.malloc   0x023fd94c       0x1c ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
+                0x023fd94c                malloc
+ .text.free     0x023fd968       0x1c ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
+                0x023fd968                free
+ .text.realloc  0x023fd984       0x1c ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
+                0x023fd984                realloc
  .text.vsnprintf
-                0x023fd98c       0x1c ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
-                0x023fd98c                vsnprintf
- .text.__errno  0x023fd9a8       0x1c ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
-                0x023fd9a8                __errno
+                0x023fd9a0       0x1c ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
+                0x023fd9a0                vsnprintf
+ .text.__errno  0x023fd9bc       0x1c ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
+                0x023fd9bc                __errno
  .text.__assert_func
-                0x023fd9c4       0x1c ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
-                0x023fd9c4                __assert_func
+                0x023fd9d8       0x1c ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
+                0x023fd9d8                __assert_func
  .text.newlib_impure_ptr_callback
-                0x023fd9e0       0x1c ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
-                0x023fd9e0                newlib_impure_ptr_callback
+                0x023fd9f4       0x1c ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
+                0x023fd9f4                newlib_impure_ptr_callback
  .text.__cxa_guard_acquire
-                0x023fd9fc       0x1c ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
-                0x023fd9fc                __cxa_guard_acquire
+                0x023fda10       0x1c ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
+                0x023fda10                __cxa_guard_acquire
  .text.__cxa_guard_release
-                0x023fda18       0x1c ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
-                0x023fda18                __cxa_guard_release
+                0x023fda2c       0x1c ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
+                0x023fda2c                __cxa_guard_release
  .text._ZN5spark13EthernetClass9listeningEv
-                0x023fda34        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
-                0x023fda34                spark::EthernetClass::listening()
+                0x023fda48        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
+                0x023fda48                spark::EthernetClass::listening()
  .text._ZN5spark13EthernetClass16getListenTimeoutEv
-                0x023fda3e        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
-                0x023fda3e                spark::EthernetClass::getListenTimeout()
+                0x023fda52        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
+                0x023fda52                spark::EthernetClass::getListenTimeout()
  .text._ZN5spark13EthernetClass16setListenTimeoutEt
-                0x023fda48        0x8 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
-                0x023fda48                spark::EthernetClass::setListenTimeout(unsigned short)
+                0x023fda5c        0x8 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
+                0x023fda5c                spark::EthernetClass::setListenTimeout(unsigned short)
  .text._ZN5spark13EthernetClass6listenEb
-                0x023fda50        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
-                0x023fda50                spark::EthernetClass::listen(bool)
+                0x023fda64        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
+                0x023fda64                spark::EthernetClass::listen(bool)
  .text._ZN5spark13EthernetClass3offEv
-                0x023fda5c        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
-                0x023fda5c                spark::EthernetClass::off()
+                0x023fda70        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
+                0x023fda70                spark::EthernetClass::off()
  .text._ZN5spark13EthernetClass2onEv
-                0x023fda68        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
-                0x023fda68                spark::EthernetClass::on()
+                0x023fda7c        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
+                0x023fda7c                spark::EthernetClass::on()
  .text._ZN5spark13EthernetClass5readyEv
-                0x023fda74        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
-                0x023fda74                spark::EthernetClass::ready()
- .text._ZN5spark13EthernetClass10connectingEv
-                0x023fda7e        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
-                0x023fda7e                spark::EthernetClass::connecting()
- .text._ZN5spark13EthernetClass10disconnectEv
                 0x023fda88        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
-                0x023fda88                spark::EthernetClass::disconnect()
- .text._ZN5spark13EthernetClass7connectEj
+                0x023fda88                spark::EthernetClass::ready()
+ .text._ZN5spark13EthernetClass10connectingEv
                 0x023fda92        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
-                0x023fda92                spark::EthernetClass::connect(unsigned int)
+                0x023fda92                spark::EthernetClass::connecting()
+ .text._ZN5spark13EthernetClass10disconnectEv
+                0x023fda9c        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
+                0x023fda9c                spark::EthernetClass::disconnect()
+ .text._ZN5spark13EthernetClass7connectEj
+                0x023fdaa6        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
+                0x023fdaa6                spark::EthernetClass::connect(unsigned int)
  .text.startup._GLOBAL__sub_I__ZN5spark8EthernetE
-                0x023fda9c       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
+                0x023fdab0       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
  .text._ZNSt12__shared_ptrIN5spark6detail8JSONDataELN9__gnu_cxx12_Lock_policyE0EEC2ERKS5_
-                0x023fdab0       0x12 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_variant.o)
-                0x023fdab0                std::__shared_ptr<spark::detail::JSONData, (__gnu_cxx::_Lock_policy)0>::__shared_ptr(std::__shared_ptr<spark::detail::JSONData, (__gnu_cxx::_Lock_policy)0> const&)
-                0x023fdab0                std::__shared_ptr<spark::detail::JSONData, (__gnu_cxx::_Lock_policy)0>::__shared_ptr(std::__shared_ptr<spark::detail::JSONData, (__gnu_cxx::_Lock_policy)0> const&)
+                0x023fdac4       0x12 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_variant.o)
+                0x023fdac4                std::__shared_ptr<spark::detail::JSONData, (__gnu_cxx::_Lock_policy)0>::__shared_ptr(std::__shared_ptr<spark::detail::JSONData, (__gnu_cxx::_Lock_policy)0> const&)
+                0x023fdac4                std::__shared_ptr<spark::detail::JSONData, (__gnu_cxx::_Lock_policy)0>::__shared_ptr(std::__shared_ptr<spark::detail::JSONData, (__gnu_cxx::_Lock_policy)0> const&)
  .text._ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE0EED2Ev
-                0x023fdac2       0x2c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_variant.o)
-                0x023fdac2                std::__shared_count<(__gnu_cxx::_Lock_policy)0>::~__shared_count()
-                0x023fdac2                std::__shared_count<(__gnu_cxx::_Lock_policy)0>::~__shared_count()
- *fill*         0x023fdaee        0x2 
+                0x023fdad6       0x2c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_variant.o)
+                0x023fdad6                std::__shared_count<(__gnu_cxx::_Lock_policy)0>::~__shared_count()
+                0x023fdad6                std::__shared_count<(__gnu_cxx::_Lock_policy)0>::~__shared_count()
+ *fill*         0x023fdb02        0x2 
  .text.startup._GLOBAL__sub_I__ZN8particle10CloudEvent15s_subscriptionsE
-                0x023fdaf0       0x10 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_cloud_event.o)
+                0x023fdb04       0x10 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_cloud_event.o)
  .text.startup._GLOBAL__sub_I_System
-                0x023fdb00       0x24 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_system.o)
+                0x023fdb14       0x24 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_system.o)
  .text._ZN6StringD2Ev
-                0x023fdb24        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
-                0x023fdb24                String::~String()
-                0x023fdb24                String::~String()
+                0x023fdb38        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
+                0x023fdb38                String::~String()
+                0x023fdb38                String::~String()
  .text._ZN6String10invalidateEv
-                0x023fdb32       0x16 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
-                0x023fdb32                String::invalidate()
+                0x023fdb46       0x16 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
+                0x023fdb46                String::invalidate()
  .text._ZN6String12changeBufferEj
-                0x023fdb48       0x18 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
-                0x023fdb48                String::changeBuffer(unsigned int)
+                0x023fdb5c       0x18 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
+                0x023fdb5c                String::changeBuffer(unsigned int)
  .text._ZN6String7reserveEj
-                0x023fdb60       0x28 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
-                0x023fdb60                String::reserve(unsigned int)
+                0x023fdb74       0x28 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
+                0x023fdb74                String::reserve(unsigned int)
  .text._ZN6String4copyEPKcj
-                0x023fdb88       0x32 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
-                0x023fdb88                String::copy(char const*, unsigned int)
+                0x023fdb9c       0x32 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
+                0x023fdb9c                String::copy(char const*, unsigned int)
  .text._ZN6String4moveERS_
-                0x023fdbba       0x3c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
-                0x023fdbba                String::move(String&)
+                0x023fdbce       0x3c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
+                0x023fdbce                String::move(String&)
  .text._ZN6StringC2EOS_
-                0x023fdbf6       0x16 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
-                0x023fdbf6                String::String(String&&)
-                0x023fdbf6                String::String(String&&)
+                0x023fdc0a       0x16 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
+                0x023fdc0a                String::String(String&&)
+                0x023fdc0a                String::String(String&&)
  .text._ZN6StringaSERKS_
-                0x023fdc0c       0x1e ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
-                0x023fdc0c                String::operator=(String const&)
+                0x023fdc20       0x1e ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
+                0x023fdc20                String::operator=(String const&)
  .text._ZN6StringC2ERKS_
-                0x023fdc2a       0x16 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
-                0x023fdc2a                String::String(String const&)
-                0x023fdc2a                String::String(String const&)
+                0x023fdc3e       0x16 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
+                0x023fdc3e                String::String(String const&)
+                0x023fdc3e                String::String(String const&)
  .text._ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE0EE10_M_releaseEv
-                0x023fdc40       0x28 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ble.o)
-                0x023fdc40                std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)0>::_M_release()
+                0x023fdc54       0x28 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ble.o)
+                0x023fdc54                std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)0>::_M_release()
  .text._ZN5spark6VectorI6StringNS_16DefaultAllocatorEED2Ev
-                0x023fdc68       0x24 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ble.o)
-                0x023fdc68                spark::Vector<String, spark::DefaultAllocator>::~Vector()
-                0x023fdc68                spark::Vector<String, spark::DefaultAllocator>::~Vector()
+                0x023fdc7c       0x24 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ble.o)
+                0x023fdc7c                spark::Vector<String, spark::DefaultAllocator>::~Vector()
+                0x023fdc7c                spark::Vector<String, spark::DefaultAllocator>::~Vector()
  .text.startup._GLOBAL__sub_I__ZN8particle3ble13WiringBleLock6mutex_E
-                0x023fdc8c       0x10 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ble.o)
+                0x023fdca0       0x10 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ble.o)
  .text._ZN5spark16JSONStreamWriter5writeEPKcj
-                0x023fdc9c       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
-                0x023fdc9c                spark::JSONStreamWriter::write(char const*, unsigned int)
+                0x023fdcb0       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
+                0x023fdcb0                spark::JSONStreamWriter::write(char const*, unsigned int)
  .text._ZN5Print5writeEPKhj
-                0x023fdcb0       0x2c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
-                0x023fdcb0                Print::write(unsigned char const*, unsigned int)
+                0x023fdcc4       0x2c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
+                0x023fdcc4                Print::write(unsigned char const*, unsigned int)
  .text._ZN5spark16JSONStreamWriterD2Ev
-                0x023fdcdc        0x2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
-                0x023fdcdc                spark::JSONStreamWriter::~JSONStreamWriter()
-                0x023fdcdc                spark::JSONStreamWriter::~JSONStreamWriter()
+                0x023fdcf0        0x2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
+                0x023fdcf0                spark::JSONStreamWriter::~JSONStreamWriter()
+                0x023fdcf0                spark::JSONStreamWriter::~JSONStreamWriter()
  .text._ZN5spark16JSONStreamWriterD0Ev
-                0x023fdcde        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
-                0x023fdcde                spark::JSONStreamWriter::~JSONStreamWriter()
+                0x023fdcf2        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
+                0x023fdcf2                spark::JSONStreamWriter::~JSONStreamWriter()
  .text._ZN5Print5writeEPKc
-                0x023fdcec       0x24 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
-                0x023fdcec                Print::write(char const*)
+                0x023fdd00       0x24 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
+                0x023fdd00                Print::write(char const*)
  .text._ZN5Print5printEc
-                0x023fdd10        0x6 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
-                0x023fdd10                Print::print(char)
+                0x023fdd24        0x6 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
+                0x023fdd24                Print::print(char)
  .text._ZN5Print7printlnEv
-                0x023fdd16       0x18 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
-                0x023fdd16                Print::println()
- .text._ZN5Print7printlnEPKc
-                0x023fdd2e       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
-                0x023fdd2e                Print::println(char const*)
+                0x023fdd2a       0x18 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
+                0x023fdd2a                Print::println()
+ .text._ZN5Print7printlnEc
+                0x023fdd42       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
+                0x023fdd42                Print::println(char)
  .text._ZN5Print11printNumberEmh
-                0x023fdd42       0x3c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
-                0x023fdd42                Print::printNumber(unsigned long, unsigned char)
+                0x023fdd56       0x3c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
+                0x023fdd56                Print::printNumber(unsigned long, unsigned char)
  .text._ZN6Stream9timedReadEv
-                0x023fdd7e       0x2a ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_stream.o)
-                0x023fdd7e                Stream::timedRead()
+                0x023fdd92       0x2a ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_stream.o)
+                0x023fdd92                Stream::timedRead()
  .text._ZN6Stream9readBytesEPcj
-                0x023fdda8       0x2a ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_stream.o)
-                0x023fdda8                Stream::readBytes(char*, unsigned int)
+                0x023fddbc       0x2a ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_stream.o)
+                0x023fddbc                Stream::readBytes(char*, unsigned int)
  .text._ZN5spark20JSONStreamLogHandler5writeEPKcj
-                0x023fddd2        0x2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fddd2                spark::JSONStreamLogHandler::write(char const*, unsigned int)
+                0x023fdde6        0x2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fdde6                spark::JSONStreamLogHandler::write(char const*, unsigned int)
  .text._ZN5spark17LogHandlerFactory14destroyHandlerEPNS_10LogHandlerE
-                0x023fddd4        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fddd4                spark::LogHandlerFactory::destroyHandler(spark::LogHandler*)
- .text.__tcf_0  0x023fdde0        0x2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fdde8        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fdde8                spark::LogHandlerFactory::destroyHandler(spark::LogHandler*)
+ .text.__tcf_0  0x023fddf4        0x2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
  .text._ZN5spark26DefaultOutputStreamFactoryD2Ev
-                0x023fdde2        0x2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fdde2                spark::DefaultOutputStreamFactory::~DefaultOutputStreamFactory()
-                0x023fdde2                spark::DefaultOutputStreamFactory::~DefaultOutputStreamFactory()
+                0x023fddf6        0x2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fddf6                spark::DefaultOutputStreamFactory::~DefaultOutputStreamFactory()
+                0x023fddf6                spark::DefaultOutputStreamFactory::~DefaultOutputStreamFactory()
  .text._ZN5spark24DefaultLogHandlerFactoryD2Ev
-                0x023fdde4        0x2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fdde4                spark::DefaultLogHandlerFactory::~DefaultLogHandlerFactory()
-                0x023fdde4                spark::DefaultLogHandlerFactory::~DefaultLogHandlerFactory()
+                0x023fddf8        0x2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fddf8                spark::DefaultLogHandlerFactory::~DefaultLogHandlerFactory()
+                0x023fddf8                spark::DefaultLogHandlerFactory::~DefaultLogHandlerFactory()
  .text._ZN12_GLOBAL__N_119nextSubcategoryNameERPKcRj
-                0x023fdde6       0x24 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fddfa       0x24 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
  .text._ZN5spark24DefaultLogHandlerFactoryD0Ev
-                0x023fde0a        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fde0a                spark::DefaultLogHandlerFactory::~DefaultLogHandlerFactory()
+                0x023fde1e        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fde1e                spark::DefaultLogHandlerFactory::~DefaultLogHandlerFactory()
  .text._ZN5spark26DefaultOutputStreamFactoryD0Ev
-                0x023fde18        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fde18                spark::DefaultOutputStreamFactory::~DefaultOutputStreamFactory()
+                0x023fde2c        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fde2c                spark::DefaultOutputStreamFactory::~DefaultOutputStreamFactory()
  .text._ZN14RecursiveMutex4lockEv.isra.0
-                0x023fde26        0x4 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fde3a        0x4 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
  .text._ZNK5spark10JSONStringeqEPKc.isra.0
-                0x023fde2a        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
- .text.__tcf_1  0x023fde38        0x2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fde3e        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+ .text.__tcf_1  0x023fde4c        0x2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
  .text._ZN5spark26DefaultOutputStreamFactory13destroyStreamEP5Print
-                0x023fde3a       0x3c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fde3a                spark::DefaultOutputStreamFactory::destroyStream(Print*)
+                0x023fde4e       0x3c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fde4e                spark::DefaultOutputStreamFactory::destroyStream(Print*)
  .text._ZN5spark10JSONWriter5valueEPKc
-                0x023fde76       0x1c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fde76                spark::JSONWriter::value(char const*)
+                0x023fde8a       0x1c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fde8a                spark::JSONWriter::value(char const*)
  .text._ZN5spark16StreamLogHandler5writeEPKc
-                0x023fde92       0x1e ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fde92                spark::StreamLogHandler::write(char const*)
+                0x023fdea6       0x1e ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fdea6                spark::StreamLogHandler::write(char const*)
  .text._ZN5spark16StreamLogHandler5writeEc
-                0x023fdeb0       0x18 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fdeb0                spark::StreamLogHandler::write(char)
+                0x023fdec4       0x18 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fdec4                spark::StreamLogHandler::write(char)
  .text._ZN5spark6detail9LogFilter9nodeIndexERKNS_6VectorINS1_4NodeENS_16DefaultAllocatorEEEPKcjRb
-                0x023fdec8       0x78 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fdec8                spark::detail::LogFilter::nodeIndex(spark::Vector<spark::detail::LogFilter::Node, spark::DefaultAllocator> const&, char const*, unsigned int, bool&)
+                0x023fdedc       0x78 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fdedc                spark::detail::LogFilter::nodeIndex(spark::Vector<spark::detail::LogFilter::Node, spark::DefaultAllocator> const&, char const*, unsigned int, bool&)
  .text._ZNK5spark6detail9LogFilter5levelEPKc
-                0x023fdf40       0x52 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fdf40                spark::detail::LogFilter::level(char const*) const
+                0x023fdf54       0x52 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fdf54                spark::detail::LogFilter::level(char const*) const
  .text._ZN5spark16StreamLogHandler6printfEPKcz
-                0x023fdf92       0x72 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fdf92                spark::StreamLogHandler::printf(char const*, ...)
+                0x023fdfa6       0x72 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fdfa6                spark::StreamLogHandler::printf(char const*, ...)
  .text._ZN5spark24DefaultLogHandlerFactory8instanceEv
-                0x023fe004       0x30 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe004                spark::DefaultLogHandlerFactory::instance()
+                0x023fe018       0x30 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe018                spark::DefaultLogHandlerFactory::instance()
  .text._ZN5spark26DefaultOutputStreamFactory8instanceEv
-                0x023fe034       0x30 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe034                spark::DefaultOutputStreamFactory::instance()
+                0x023fe048       0x30 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe048                spark::DefaultOutputStreamFactory::instance()
  .text._ZN5spark10LogManagerC2Ev
-                0x023fe064       0x2c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe064                spark::LogManager::LogManager()
-                0x023fe064                spark::LogManager::LogManager()
+                0x023fe078       0x2c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe078                spark::LogManager::LogManager()
+                0x023fe078                spark::LogManager::LogManager()
  .text._ZN5spark10LogManager8instanceEv
-                0x023fe090       0x38 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe090                spark::LogManager::instance()
+                0x023fe0a4       0x38 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe0a4                spark::LogManager::instance()
  .text._ZN5spark10LogManager18setSystemCallbacksEv
-                0x023fe0c8       0x18 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe0c8                spark::LogManager::setSystemCallbacks()
+                0x023fe0dc       0x18 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe0dc                spark::LogManager::setSystemCallbacks()
  .text._ZN5spark10LogManager20resetSystemCallbacksEv
-                0x023fe0e0        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe0e0                spark::LogManager::resetSystemCallbacks()
+                0x023fe0f4        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe0f4                spark::LogManager::resetSystemCallbacks()
  .text._ZN5spark18JSONObjectIteratorC2ERKNS_9JSONValueE
-                0x023fe0ec       0x22 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe0ec                spark::JSONObjectIterator::JSONObjectIterator(spark::JSONValue const&)
-                0x023fe0ec                spark::JSONObjectIterator::JSONObjectIterator(spark::JSONValue const&)
+                0x023fe100       0x22 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe100                spark::JSONObjectIterator::JSONObjectIterator(spark::JSONValue const&)
+                0x023fe100                spark::JSONObjectIterator::JSONObjectIterator(spark::JSONValue const&)
  .text._ZNK5spark18JSONObjectIterator4nameEv
-                0x023fe10e       0x22 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe10e                spark::JSONObjectIterator::name() const
+                0x023fe122       0x22 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe122                spark::JSONObjectIterator::name() const
  .text._ZNK5spark18JSONObjectIterator5valueEv
-                0x023fe130       0x22 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe130                spark::JSONObjectIterator::value() const
- *fill*         0x023fe152        0x2 
+                0x023fe144       0x22 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe144                spark::JSONObjectIterator::value() const
+ *fill*         0x023fe166        0x2 
  .text._ZN5spark26DefaultOutputStreamFactory9getParamsERKNS_9JSONValueEPi
-                0x023fe154       0x64 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe154                spark::DefaultOutputStreamFactory::getParams(spark::JSONValue const&, int*)
+                0x023fe168       0x64 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe168                spark::DefaultOutputStreamFactory::getParams(spark::JSONValue const&, int*)
  .text._ZN5spark26DefaultOutputStreamFactory12createStreamEPKcRKNS_9JSONValueE
-                0x023fe1b8       0x5c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe1b8                spark::DefaultOutputStreamFactory::createStream(char const*, spark::JSONValue const&)
+                0x023fe1cc       0x5c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe1cc                spark::DefaultOutputStreamFactory::createStream(char const*, spark::JSONValue const&)
  .text._ZN5spark6VectorINS_6detail9LogFilter4NodeENS_16DefaultAllocatorEED2Ev
-                0x023fe214       0x28 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe214                spark::Vector<spark::detail::LogFilter::Node, spark::DefaultAllocator>::~Vector()
-                0x023fe214                spark::Vector<spark::detail::LogFilter::Node, spark::DefaultAllocator>::~Vector()
+                0x023fe228       0x28 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe228                spark::Vector<spark::detail::LogFilter::Node, spark::DefaultAllocator>::~Vector()
+                0x023fe228                spark::Vector<spark::detail::LogFilter::Node, spark::DefaultAllocator>::~Vector()
  .text._ZN5spark6detail9LogFilterD2Ev
-                0x023fe23c       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe23c                spark::detail::LogFilter::~LogFilter()
-                0x023fe23c                spark::detail::LogFilter::~LogFilter()
+                0x023fe250       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe250                spark::detail::LogFilter::~LogFilter()
+                0x023fe250                spark::detail::LogFilter::~LogFilter()
  .text._ZN5spark16StreamLogHandlerD2Ev
-                0x023fe250       0x18 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe250                spark::StreamLogHandler::~StreamLogHandler()
-                0x023fe250                spark::StreamLogHandler::~StreamLogHandler()
+                0x023fe264       0x18 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe264                spark::StreamLogHandler::~StreamLogHandler()
+                0x023fe264                spark::StreamLogHandler::~StreamLogHandler()
  .text._ZN5spark16StreamLogHandlerD0Ev
-                0x023fe268       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe268                spark::StreamLogHandler::~StreamLogHandler()
- .text._ZN5spark20JSONStreamLogHandlerD2Ev
                 0x023fe27c       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe27c                spark::JSONStreamLogHandler::~JSONStreamLogHandler()
-                0x023fe27c                spark::JSONStreamLogHandler::~JSONStreamLogHandler()
- .text._ZN5spark20JSONStreamLogHandlerD0Ev
+                0x023fe27c                spark::StreamLogHandler::~StreamLogHandler()
+ .text._ZN5spark20JSONStreamLogHandlerD2Ev
                 0x023fe290       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
                 0x023fe290                spark::JSONStreamLogHandler::~JSONStreamLogHandler()
+                0x023fe290                spark::JSONStreamLogHandler::~JSONStreamLogHandler()
+ .text._ZN5spark20JSONStreamLogHandlerD0Ev
+                0x023fe2a4       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe2a4                spark::JSONStreamLogHandler::~JSONStreamLogHandler()
  .text._ZN5spark6detail9LogFilter4NodeC2EOS2_
-                0x023fe2a4       0x26 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe2a4                spark::detail::LogFilter::Node::Node(spark::detail::LogFilter::Node&&)
-                0x023fe2a4                spark::detail::LogFilter::Node::Node(spark::detail::LogFilter::Node&&)
+                0x023fe2b8       0x26 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe2b8                spark::detail::LogFilter::Node::Node(spark::detail::LogFilter::Node&&)
+                0x023fe2b8                spark::detail::LogFilter::Node::Node(spark::detail::LogFilter::Node&&)
  .text._ZN5spark6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEEC2EOS3_
-                0x023fe2ca       0x1e ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe2ca                spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>::Vector(spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>&&)
-                0x023fe2ca                spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>::Vector(spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>&&)
+                0x023fe2de       0x1e ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe2de                spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>::Vector(spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>&&)
+                0x023fe2de                spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>::Vector(spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>&&)
  .text._ZNSt10lock_guardI14RecursiveMutexED2Ev
-                0x023fe2e8       0x10 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe2e8                std::lock_guard<RecursiveMutex>::~lock_guard()
-                0x023fe2e8                std::lock_guard<RecursiveMutex>::~lock_guard()
+                0x023fe2fc       0x10 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe2fc                std::lock_guard<RecursiveMutex>::~lock_guard()
+                0x023fe2fc                std::lock_guard<RecursiveMutex>::~lock_guard()
  .text._ZN5spark10LogManager10logMessageEPKciS2_PK13LogAttributesPv
-                0x023fe2f8       0x80 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe2f8                spark::LogManager::logMessage(char const*, int, char const*, LogAttributes const*, void*)
+                0x023fe30c       0x80 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe30c                spark::LogManager::logMessage(char const*, int, char const*, LogAttributes const*, void*)
  .text._ZN5spark10LogManager8logWriteEPKcjiS2_Pv
-                0x023fe378       0x74 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe378                spark::LogManager::logWrite(char const*, unsigned int, int, char const*, void*)
+                0x023fe38c       0x74 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe38c                spark::LogManager::logWrite(char const*, unsigned int, int, char const*, void*)
  .text._ZN5spark10LogManager10logEnabledEiPKcPv
-                0x023fe3ec       0x64 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe3ec                spark::LogManager::logEnabled(int, char const*, void*)
+                0x023fe400       0x64 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe400                spark::LogManager::logEnabled(int, char const*, void*)
  .text._ZN5spark6VectorIPNS_10LogHandlerENS_16DefaultAllocatorEE6appendES2_
-                0x023fe450       0x4c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe450                spark::Vector<spark::LogHandler*, spark::DefaultAllocator>::append(spark::LogHandler*)
+                0x023fe464       0x4c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe464                spark::Vector<spark::LogHandler*, spark::DefaultAllocator>::append(spark::LogHandler*)
  .text._ZN5spark10LogManager10addHandlerEPNS_10LogHandlerE
-                0x023fe49c       0x56 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe49c                spark::LogManager::addHandler(spark::LogHandler*)
+                0x023fe4b0       0x56 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe4b0                spark::LogManager::addHandler(spark::LogHandler*)
  .text._ZN5spark6VectorIPNS_10LogHandlerENS_16DefaultAllocatorEE9removeOneERKS2_
-                0x023fe4f2       0x36 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe4f2                spark::Vector<spark::LogHandler*, spark::DefaultAllocator>::removeOne(spark::LogHandler* const&)
+                0x023fe506       0x36 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe506                spark::Vector<spark::LogHandler*, spark::DefaultAllocator>::removeOne(spark::LogHandler* const&)
  .text._ZN5spark10LogManager13removeHandlerEPNS_10LogHandlerE
-                0x023fe528       0x2e ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe528                spark::LogManager::removeHandler(spark::LogHandler*)
+                0x023fe53c       0x2e ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe53c                spark::LogManager::removeHandler(spark::LogHandler*)
  .text._ZN5spark10LogManager22destroyFactoryHandlersEv
-                0x023fe556       0x5c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe556                spark::LogManager::destroyFactoryHandlers()
+                0x023fe56a       0x5c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe56a                spark::LogManager::destroyFactoryHandlers()
  .text._ZN5spark10LogManagerD2Ev
-                0x023fe5b2       0x52 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe5b2                spark::LogManager::~LogManager()
-                0x023fe5b2                spark::LogManager::~LogManager()
- .text.__tcf_2  0x023fe604        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe5c6       0x52 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe5c6                spark::LogManager::~LogManager()
+                0x023fe5c6                spark::LogManager::~LogManager()
+ .text.__tcf_2  0x023fe618        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
  .text._ZN5spark6VectorINS_6detail9LogFilter4NodeENS_16DefaultAllocatorEE4moveIS3_Li0EEEvPS3_S7_S7_
-                0x023fe610       0x58 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe610                void spark::Vector<spark::detail::LogFilter::Node, spark::DefaultAllocator>::move<spark::detail::LogFilter::Node, 0>(spark::detail::LogFilter::Node*, spark::detail::LogFilter::Node*, spark::detail::LogFilter::Node*)
+                0x023fe624       0x58 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe624                void spark::Vector<spark::detail::LogFilter::Node, spark::DefaultAllocator>::move<spark::detail::LogFilter::Node, 0>(spark::detail::LogFilter::Node*, spark::detail::LogFilter::Node*, spark::detail::LogFilter::Node*)
  .text._ZN5spark6VectorI6StringNS_16DefaultAllocatorEE4moveIS1_Li0EEEvPS1_S5_S5_
-                0x023fe668       0x54 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe668                void spark::Vector<String, spark::DefaultAllocator>::move<String, 0>(String*, String*, String*)
+                0x023fe67c       0x54 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe67c                void spark::Vector<String, spark::DefaultAllocator>::move<String, 0>(String*, String*, String*)
  .text._ZN5spark6VectorI6StringNS_16DefaultAllocatorEE7reallocIS1_Li0EEEbi
-                0x023fe6bc       0x30 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe6bc                bool spark::Vector<String, spark::DefaultAllocator>::realloc<String, 0>(int)
+                0x023fe6d0       0x30 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe6d0                bool spark::Vector<String, spark::DefaultAllocator>::realloc<String, 0>(int)
  .text._ZN5spark6detail9LogFilterC2E8LogLevelNS_6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEEE
-                0x023fe6ec      0x1f2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe6ec                spark::detail::LogFilter::LogFilter(LogLevel, spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>)
-                0x023fe6ec                spark::detail::LogFilter::LogFilter(LogLevel, spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>)
- *fill*         0x023fe8de        0x2 
+                0x023fe700      0x1f2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe700                spark::detail::LogFilter::LogFilter(LogLevel, spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>)
+                0x023fe700                spark::detail::LogFilter::LogFilter(LogLevel, spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>)
+ *fill*         0x023fe8f2        0x2 
  .text._ZN5spark16StreamLogHandlerC2ER5Print8LogLevelNS_6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEEE
-                0x023fe8e0       0x4c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe8e0                spark::StreamLogHandler::StreamLogHandler(Print&, LogLevel, spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>)
-                0x023fe8e0                spark::StreamLogHandler::StreamLogHandler(Print&, LogLevel, spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>)
+                0x023fe8f4       0x4c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe8f4                spark::StreamLogHandler::StreamLogHandler(Print&, LogLevel, spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>)
+                0x023fe8f4                spark::StreamLogHandler::StreamLogHandler(Print&, LogLevel, spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>)
  .text._ZN5spark24DefaultLogHandlerFactory13createHandlerEPKc8LogLevelNS_6VectorINS_17LogCategoryFilterENS_16DefaultAllocatorEEEP5PrintRKNS_9JSONValueE
-                0x023fe92c       0x8c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe92c                spark::DefaultLogHandlerFactory::createHandler(char const*, LogLevel, spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>, Print*, spark::JSONValue const&)
+                0x023fe940       0x8c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe940                spark::DefaultLogHandlerFactory::createHandler(char const*, LogLevel, spark::Vector<spark::LogCategoryFilter, spark::DefaultAllocator>, Print*, spark::JSONValue const&)
  .text.startup._GLOBAL__sub_I__ZN5spark3LogE
-                0x023fe9b8       0x10 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe9cc       0x10 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
  .text._ZN5spark16StreamLogHandler10logMessageEPKc8LogLevelS2_RK13LogAttributes
-                0x023fe9c8      0x1a8 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023fe9c8                spark::StreamLogHandler::logMessage(char const*, LogLevel, char const*, LogAttributes const&)
+                0x023fe9dc      0x1a8 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023fe9dc                spark::StreamLogHandler::logMessage(char const*, LogLevel, char const*, LogAttributes const&)
  .text._ZN5spark16StreamLogHandler5writeEPKcj
-                0x023feb70       0x38 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023feb70                spark::StreamLogHandler::write(char const*, unsigned int)
+                0x023feb84       0x38 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023feb84                spark::StreamLogHandler::write(char const*, unsigned int)
  .text._ZN5spark20JSONStreamLogHandler10logMessageEPKc8LogLevelS2_RK13LogAttributes
-                0x023feba8      0x174 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
-                0x023feba8                spark::JSONStreamLogHandler::logMessage(char const*, LogLevel, char const*, LogAttributes const&)
+                0x023febbc      0x174 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+                0x023febbc                spark::JSONStreamLogHandler::logMessage(char const*, LogLevel, char const*, LogAttributes const&)
  .text.startup._GLOBAL__sub_I_TIME_FORMAT_DEFAULT
-                0x023fed1c       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_time.o)
- .text.delay    0x023fed30        0x6 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring.o)
-                0x023fed30                delay
- *fill*         0x023fed36        0x2 
+                0x023fed30       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_time.o)
+ .text.delay    0x023fed44        0x6 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring.o)
+                0x023fed44                delay
+ *fill*         0x023fed4a        0x2 
  .text.startup._GLOBAL__sub_I_RGB
-                0x023fed38        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_rgb.o)
+                0x023fed4c        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_rgb.o)
  .text._ZZ21module_user_init_hookENUlP6_reentjmPvE_4_FUNES0_jmS1_
-                0x023fed44        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(user.o)
+                0x023fed58        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(user.o)
  .text.serialEventRun
-                0x023fed50       0x50 ../../../build/target/wiring/platform-32-m/\libwiring.a(user.o)
-                0x023fed50                serialEventRun
+                0x023fed64       0x50 ../../../build/target/wiring/platform-32-m/\libwiring.a(user.o)
+                0x023fed64                serialEventRun
  .text._post_loop
-                0x023feda0       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(user.o)
-                0x023feda0                _post_loop
+                0x023fedb4       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(user.o)
+                0x023fedb4                _post_loop
  .text._Z33system_initialize_user_backup_ramv
-                0x023fedb4       0x2c ../../../build/target/wiring/platform-32-m/\libwiring.a(user.o)
-                0x023fedb4                system_initialize_user_backup_ram()
+                0x023fedc8       0x2c ../../../build/target/wiring/platform-32-m/\libwiring.a(user.o)
+                0x023fedc8                system_initialize_user_backup_ram()
  .text._Z27ctrl_request_custom_handlerP12ctrl_request
-                0x023fede0       0x16 ../../../build/target/wiring/platform-32-m/\libwiring.a(user.o)
-                0x023fede0                ctrl_request_custom_handler(ctrl_request*)
- *fill*         0x023fedf6        0x2 
+                0x023fedf4       0x16 ../../../build/target/wiring/platform-32-m/\libwiring.a(user.o)
+                0x023fedf4                ctrl_request_custom_handler(ctrl_request*)
+ *fill*         0x023fee0a        0x2 
  .text._ZL20ctrl_request_handlerP12ctrl_request
-                0x023fedf8       0x38 ../../../build/target/wiring/platform-32-m/\libwiring.a(user.o)
+                0x023fee0c       0x38 ../../../build/target/wiring/platform-32-m/\libwiring.a(user.o)
  .text.module_user_init_hook
-                0x023fee30       0x64 ../../../build/target/wiring/platform-32-m/\libwiring.a(user.o)
-                0x023fee30                module_user_init_hook
+                0x023fee44       0x64 ../../../build/target/wiring/platform-32-m/\libwiring.a(user.o)
+                0x023fee44                module_user_init_hook
  .text._ZN9IPAddressD2Ev
-                0x023fee94        0x2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ipaddress.o)
-                0x023fee94                IPAddress::~IPAddress()
-                0x023fee94                IPAddress::~IPAddress()
+                0x023feea8        0x2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ipaddress.o)
+                0x023feea8                IPAddress::~IPAddress()
+                0x023feea8                IPAddress::~IPAddress()
  .text._ZN9IPAddressD0Ev
-                0x023fee96        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ipaddress.o)
-                0x023fee96                IPAddress::~IPAddress()
+                0x023feeaa        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ipaddress.o)
+                0x023feeaa                IPAddress::~IPAddress()
  .text._ZNK9IPAddress7printToER5Print
-                0x023feea4       0x64 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ipaddress.o)
-                0x023feea4                IPAddress::printTo(Print&) const
+                0x023feeb8       0x64 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ipaddress.o)
+                0x023feeb8                IPAddress::printTo(Print&) const
  .text._ZN9IPAddressC2Ev
-                0x023fef08       0x1c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ipaddress.o)
-                0x023fef08                IPAddress::IPAddress()
-                0x023fef08                IPAddress::IPAddress()
+                0x023fef1c       0x1c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ipaddress.o)
+                0x023fef1c                IPAddress::IPAddress()
+                0x023fef1c                IPAddress::IPAddress()
  .text._ZN9IPAddressC2ERK16_HAL_IPAddress_t
-                0x023fef24       0x24 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ipaddress.o)
-                0x023fef24                IPAddress::IPAddress(_HAL_IPAddress_t const&)
-                0x023fef24                IPAddress::IPAddress(_HAL_IPAddress_t const&)
+                0x023fef38       0x24 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ipaddress.o)
+                0x023fef38                IPAddress::IPAddress(_HAL_IPAddress_t const&)
+                0x023fef38                IPAddress::IPAddress(_HAL_IPAddress_t const&)
  .text._ZN9IPAddress8set_ipv4Ehhhh
-                0x023fef48       0x1a ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ipaddress.o)
-                0x023fef48                IPAddress::set_ipv4(unsigned char, unsigned char, unsigned char, unsigned char)
- *fill*         0x023fef62        0x2 
+                0x023fef5c       0x1a ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ipaddress.o)
+                0x023fef5c                IPAddress::set_ipv4(unsigned char, unsigned char, unsigned char, unsigned char)
+ *fill*         0x023fef76        0x2 
  .text._ZN9IPAddressC2EPKh
-                0x023fef64       0x20 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ipaddress.o)
-                0x023fef64                IPAddress::IPAddress(unsigned char const*)
-                0x023fef64                IPAddress::IPAddress(unsigned char const*)
+                0x023fef78       0x20 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ipaddress.o)
+                0x023fef78                IPAddress::IPAddress(unsigned char const*)
+                0x023fef78                IPAddress::IPAddress(unsigned char const*)
  .text._ZN9USBSerial14blockOnOverrunEb
-                0x023fef84        0x4 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
-                0x023fef84                USBSerial::blockOnOverrun(bool)
- .text.__tcf_0  0x023fef88        0x2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
+                0x023fef98        0x4 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
+                0x023fef98                USBSerial::blockOnOverrun(bool)
+ .text.__tcf_0  0x023fef9c        0x2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
  .text._ZN9USBSerialD2Ev
-                0x023fef8a        0x2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
-                0x023fef8a                USBSerial::~USBSerial()
-                0x023fef8a                USBSerial::~USBSerial()
+                0x023fef9e        0x2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
+                0x023fef9e                USBSerial::~USBSerial()
+                0x023fef9e                USBSerial::~USBSerial()
  .text._ZN9USBSerial4readEv
-                0x023fef8c       0x10 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
-                0x023fef8c                USBSerial::read()
+                0x023fefa0       0x10 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
+                0x023fefa0                USBSerial::read()
  .text._ZN9USBSerial4peekEv
-                0x023fef9c       0x10 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
-                0x023fef9c                USBSerial::peek()
+                0x023fefb0       0x10 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
+                0x023fefb0                USBSerial::peek()
  .text._ZN9USBSerial17availableForWriteEv
-                0x023fefac        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
-                0x023fefac                USBSerial::availableForWrite()
+                0x023fefc0        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
+                0x023fefc0                USBSerial::availableForWrite()
  .text._ZN9USBSerial9availableEv
-                0x023fefba        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
-                0x023fefba                USBSerial::available()
+                0x023fefce        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
+                0x023fefce                USBSerial::available()
  .text._ZN9USBSerial5writeEh
-                0x023fefc8       0x24 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
-                0x023fefc8                USBSerial::write(unsigned char)
+                0x023fefdc       0x24 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
+                0x023fefdc                USBSerial::write(unsigned char)
  .text._ZN9USBSerial5flushEv
-                0x023fefec        0x6 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
-                0x023fefec                USBSerial::flush()
+                0x023ff000        0x6 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
+                0x023ff000                USBSerial::flush()
  .text._ZN9USBSerialD0Ev
-                0x023feff2        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
-                0x023feff2                USBSerial::~USBSerial()
+                0x023ff006        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
+                0x023ff006                USBSerial::~USBSerial()
  .text._ZN9USBSerialC2E20HAL_USB_USART_SerialRK20HAL_USB_USART_Config
-                0x023ff000       0x28 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
-                0x023ff000                USBSerial::USBSerial(HAL_USB_USART_Serial, HAL_USB_USART_Config const&)
-                0x023ff000                USBSerial::USBSerial(HAL_USB_USART_Serial, HAL_USB_USART_Config const&)
+                0x023ff014       0x28 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
+                0x023ff014                USBSerial::USBSerial(HAL_USB_USART_Serial, HAL_USB_USART_Config const&)
+                0x023ff014                USBSerial::USBSerial(HAL_USB_USART_Serial, HAL_USB_USART_Config const&)
  .text._ZN9USBSerial5beginEl
-                0x023ff028        0x8 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
-                0x023ff028                USBSerial::begin(long)
+                0x023ff03c        0x8 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
+                0x023ff03c                USBSerial::begin(long)
  .text._ZN9USBSerial3endEv
-                0x023ff030        0x6 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
-                0x023ff030                USBSerial::end()
+                0x023ff044        0x6 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
+                0x023ff044                USBSerial::end()
  .text._Z19acquireSerialBufferv
-                0x023ff036       0x10 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
-                0x023ff036                acquireSerialBuffer()
- *fill*         0x023ff046        0x2 
+                0x023ff04a       0x10 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
+                0x023ff04a                acquireSerialBuffer()
+ *fill*         0x023ff05a        0x2 
  .text._Z16_fetch_usbserialv
-                0x023ff048       0x48 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
-                0x023ff048                _fetch_usbserial()
+                0x023ff05c       0x48 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
+                0x023ff05c                _fetch_usbserial()
  .text._ZN12_GLOBAL__N_19skipTokenEPK9jsmntok_t
-                0x023ff090       0x2e ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
+                0x023ff0a4       0x2e ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
  .text._ZN5spark10JSONWriter6printfEPKcz
-                0x023ff0be       0x70 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
-                0x023ff0be                spark::JSONWriter::printf(char const*, ...)
+                0x023ff0d2       0x70 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
+                0x023ff0d2                spark::JSONWriter::printf(char const*, ...)
  .text._ZNSt12__shared_ptrIN5spark6detail8JSONDataELN9__gnu_cxx12_Lock_policyE0EEaSERKS5_.isra.0
-                0x023ff12e       0x24 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
+                0x023ff142       0x24 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
  .text._ZN5spark10JSONWriter5writeEc
-                0x023ff152       0x18 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
-                0x023ff152                spark::JSONWriter::write(char)
+                0x023ff166       0x18 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
+                0x023ff166                spark::JSONWriter::write(char)
  .text._ZN5spark9JSONValueC2EPK9jsmntok_tSt10shared_ptrINS_6detail8JSONDataEE
-                0x023ff16a       0x1c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
-                0x023ff16a                spark::JSONValue::JSONValue(jsmntok_t const*, std::shared_ptr<spark::detail::JSONData>)
-                0x023ff16a                spark::JSONValue::JSONValue(jsmntok_t const*, std::shared_ptr<spark::detail::JSONData>)
+                0x023ff17e       0x1c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
+                0x023ff17e                spark::JSONValue::JSONValue(jsmntok_t const*, std::shared_ptr<spark::detail::JSONData>)
+                0x023ff17e                spark::JSONValue::JSONValue(jsmntok_t const*, std::shared_ptr<spark::detail::JSONData>)
  .text._ZNK5spark9JSONValue4typeEv
-                0x023ff186       0x50 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
-                0x023ff186                spark::JSONValue::type() const
+                0x023ff19a       0x50 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
+                0x023ff19a                spark::JSONValue::type() const
  .text._ZNK5spark9JSONValue5toIntEv
-                0x023ff1d6       0x42 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
-                0x023ff1d6                spark::JSONValue::toInt() const
+                0x023ff1ea       0x42 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
+                0x023ff1ea                spark::JSONValue::toInt() const
  .text._ZN5spark10JSONStringC2EPK9jsmntok_tSt10shared_ptrINS_6detail8JSONDataEE
-                0x023ff218       0x48 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
-                0x023ff218                spark::JSONString::JSONString(jsmntok_t const*, std::shared_ptr<spark::detail::JSONData>)
-                0x023ff218                spark::JSONString::JSONString(jsmntok_t const*, std::shared_ptr<spark::detail::JSONData>)
+                0x023ff22c       0x48 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
+                0x023ff22c                spark::JSONString::JSONString(jsmntok_t const*, std::shared_ptr<spark::detail::JSONData>)
+                0x023ff22c                spark::JSONString::JSONString(jsmntok_t const*, std::shared_ptr<spark::detail::JSONData>)
  .text._ZN5spark18JSONObjectIteratorC2EPK9jsmntok_tSt10shared_ptrINS_6detail8JSONDataEE
-                0x023ff260       0x30 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
-                0x023ff260                spark::JSONObjectIterator::JSONObjectIterator(jsmntok_t const*, std::shared_ptr<spark::detail::JSONData>)
-                0x023ff260                spark::JSONObjectIterator::JSONObjectIterator(jsmntok_t const*, std::shared_ptr<spark::detail::JSONData>)
+                0x023ff274       0x30 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
+                0x023ff274                spark::JSONObjectIterator::JSONObjectIterator(jsmntok_t const*, std::shared_ptr<spark::detail::JSONData>)
+                0x023ff274                spark::JSONObjectIterator::JSONObjectIterator(jsmntok_t const*, std::shared_ptr<spark::detail::JSONData>)
  .text._ZN5spark18JSONObjectIterator4nextEv
-                0x023ff290       0x26 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
-                0x023ff290                spark::JSONObjectIterator::next()
+                0x023ff2a4       0x26 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
+                0x023ff2a4                spark::JSONObjectIterator::next()
  .text._ZN5spark10JSONWriter9endObjectEv
-                0x023ff2b6       0x12 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
-                0x023ff2b6                spark::JSONWriter::endObject()
+                0x023ff2ca       0x12 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
+                0x023ff2ca                spark::JSONWriter::endObject()
  .text._ZN5spark10JSONWriter14writeSeparatorEv
-                0x023ff2c8       0x1a ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
-                0x023ff2c8                spark::JSONWriter::writeSeparator()
+                0x023ff2dc       0x1a ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
+                0x023ff2dc                spark::JSONWriter::writeSeparator()
  .text._ZN5spark10JSONWriter11beginObjectEv
-                0x023ff2e2       0x18 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
-                0x023ff2e2                spark::JSONWriter::beginObject()
- *fill*         0x023ff2fa        0x2 
+                0x023ff2f6       0x18 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
+                0x023ff2f6                spark::JSONWriter::beginObject()
+ *fill*         0x023ff30e        0x2 
  .text._ZN5spark10JSONWriter5valueEi
-                0x023ff2fc       0x24 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
-                0x023ff2fc                spark::JSONWriter::value(int)
+                0x023ff310       0x24 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
+                0x023ff310                spark::JSONWriter::value(int)
  .text._ZN5spark10JSONWriter5valueEj
-                0x023ff320       0x24 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
-                0x023ff320                spark::JSONWriter::value(unsigned int)
+                0x023ff334       0x24 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
+                0x023ff334                spark::JSONWriter::value(unsigned int)
  .text._ZN5spark10JSONWriter12writeEscapedEPKcj
-                0x023ff344       0xbc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
-                0x023ff344                spark::JSONWriter::writeEscaped(char const*, unsigned int)
+                0x023ff358       0xbc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
+                0x023ff358                spark::JSONWriter::writeEscaped(char const*, unsigned int)
  .text._ZN5spark10JSONWriter4nameEPKcj
-                0x023ff400       0x20 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
-                0x023ff400                spark::JSONWriter::name(char const*, unsigned int)
+                0x023ff414       0x20 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
+                0x023ff414                spark::JSONWriter::name(char const*, unsigned int)
  .text._ZN5spark10JSONWriter5valueEPKcj
-                0x023ff420       0x20 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
-                0x023ff420                spark::JSONWriter::value(char const*, unsigned int)
+                0x023ff434       0x20 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
+                0x023ff434                spark::JSONWriter::value(char const*, unsigned int)
  .text._ZN11USARTSerialD2Ev
-                0x023ff440        0x2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
-                0x023ff440                USARTSerial::~USARTSerial()
-                0x023ff440                USARTSerial::~USARTSerial()
+                0x023ff454        0x2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
+                0x023ff454                USARTSerial::~USARTSerial()
+                0x023ff454                USARTSerial::~USARTSerial()
  .text._ZN11USARTSerial14blockOnOverrunEb
-                0x023ff442        0x4 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
-                0x023ff442                USARTSerial::blockOnOverrun(bool)
+                0x023ff456        0x4 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
+                0x023ff456                USARTSerial::blockOnOverrun(bool)
  .text._ZN11USARTSerial17availableForWriteEv
-                0x023ff446        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
-                0x023ff446                USARTSerial::availableForWrite()
+                0x023ff45a        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
+                0x023ff45a                USARTSerial::availableForWrite()
  .text._ZN11USARTSerial9availableEv
-                0x023ff454        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
-                0x023ff454                USARTSerial::available()
+                0x023ff468        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
+                0x023ff468                USARTSerial::available()
  .text._ZN11USARTSerial4peekEv
-                0x023ff462        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
-                0x023ff462                USARTSerial::peek()
+                0x023ff476        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
+                0x023ff476                USARTSerial::peek()
  .text._ZN11USARTSerial4readEv
-                0x023ff470        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
-                0x023ff470                USARTSerial::read()
+                0x023ff484        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
+                0x023ff484                USARTSerial::read()
  .text._ZN11USARTSerial5flushEv
-                0x023ff47e        0x6 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
-                0x023ff47e                USARTSerial::flush()
+                0x023ff492        0x6 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
+                0x023ff492                USARTSerial::flush()
  .text._ZN11USARTSerial5writeEh
-                0x023ff484       0x28 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
-                0x023ff484                USARTSerial::write(unsigned char)
+                0x023ff498       0x28 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
+                0x023ff498                USARTSerial::write(unsigned char)
  .text._ZN11USARTSerialD0Ev
-                0x023ff4ac        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
-                0x023ff4ac                USARTSerial::~USARTSerial()
- *fill*         0x023ff4ba        0x2 
+                0x023ff4c0        0xe ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
+                0x023ff4c0                USARTSerial::~USARTSerial()
+ *fill*         0x023ff4ce        0x2 
  .text._ZN11USARTSerialC2E21hal_usart_interface_tRK25hal_usart_buffer_config_t
-                0x023ff4bc       0x28 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
-                0x023ff4bc                USARTSerial::USARTSerial(hal_usart_interface_t, hal_usart_buffer_config_t const&)
-                0x023ff4bc                USARTSerial::USARTSerial(hal_usart_interface_t, hal_usart_buffer_config_t const&)
+                0x023ff4d0       0x28 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
+                0x023ff4d0                USARTSerial::USARTSerial(hal_usart_interface_t, hal_usart_buffer_config_t const&)
+                0x023ff4d0                USARTSerial::USARTSerial(hal_usart_interface_t, hal_usart_buffer_config_t const&)
  .text._ZN11USARTSerial5beginEmm
-                0x023ff4e4        0x8 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
-                0x023ff4e4                USARTSerial::begin(unsigned long, unsigned long)
+                0x023ff4f8        0x8 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
+                0x023ff4f8                USARTSerial::begin(unsigned long, unsigned long)
  .text._ZN11USARTSerial5beginEm
-                0x023ff4ec        0x6 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
-                0x023ff4ec                USARTSerial::begin(unsigned long)
+                0x023ff500        0x6 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
+                0x023ff500                USARTSerial::begin(unsigned long)
  .text._ZN11USARTSerial3endEv
-                0x023ff4f2        0x6 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
-                0x023ff4f2                USARTSerial::end()
+                0x023ff506        0x6 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
+                0x023ff506                USARTSerial::end()
  .text._ZN11USARTSerial9isEnabledEv
-                0x023ff4f8        0x6 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
-                0x023ff4f8                USARTSerial::isEnabled()
- *fill*         0x023ff4fe        0x2 
+                0x023ff50c        0x6 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
+                0x023ff50c                USARTSerial::isEnabled()
+ *fill*         0x023ff512        0x2 
  .text.startup._GLOBAL__sub_I__ZN7TwoWireC2E19hal_i2c_interface_tRK16hal_i2c_config_t
-                0x023ff500       0x1c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_i2c.o)
+                0x023ff514       0x1c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_i2c.o)
  .text._ZN5spark9WiFiClass5readyEv
-                0x023ff51c        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
-                0x023ff51c                spark::WiFiClass::ready()
- .text._ZN5spark9WiFiClass9listeningEv
-                0x023ff526        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
-                0x023ff526                spark::WiFiClass::listening()
- .text._ZN5spark9WiFiClass16getListenTimeoutEv
                 0x023ff530        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
-                0x023ff530                spark::WiFiClass::getListenTimeout()
+                0x023ff530                spark::WiFiClass::ready()
+ .text._ZN5spark9WiFiClass9listeningEv
+                0x023ff53a        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
+                0x023ff53a                spark::WiFiClass::listening()
+ .text._ZN5spark9WiFiClass16getListenTimeoutEv
+                0x023ff544        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
+                0x023ff544                spark::WiFiClass::getListenTimeout()
  .text._ZN5spark9WiFiClass16setListenTimeoutEt
-                0x023ff53a        0x8 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
-                0x023ff53a                spark::WiFiClass::setListenTimeout(unsigned short)
+                0x023ff54e        0x8 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
+                0x023ff54e                spark::WiFiClass::setListenTimeout(unsigned short)
  .text._ZN5spark9WiFiClass6listenEb
-                0x023ff542        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
-                0x023ff542                spark::WiFiClass::listen(bool)
+                0x023ff556        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
+                0x023ff556                spark::WiFiClass::listen(bool)
  .text._ZN5spark9WiFiClass3offEv
-                0x023ff54e        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
-                0x023ff54e                spark::WiFiClass::off()
+                0x023ff562        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
+                0x023ff562                spark::WiFiClass::off()
  .text._ZN5spark9WiFiClass2onEv
-                0x023ff55a        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
-                0x023ff55a                spark::WiFiClass::on()
+                0x023ff56e        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
+                0x023ff56e                spark::WiFiClass::on()
  .text._ZN5spark9WiFiClass10connectingEv
-                0x023ff566        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
-                0x023ff566                spark::WiFiClass::connecting()
- .text._ZN5spark9WiFiClass10disconnectEv
-                0x023ff570        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
-                0x023ff570                spark::WiFiClass::disconnect()
- .text._ZN5spark9WiFiClass7connectEj
                 0x023ff57a        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
-                0x023ff57a                spark::WiFiClass::connect(unsigned int)
+                0x023ff57a                spark::WiFiClass::connecting()
+ .text._ZN5spark9WiFiClass10disconnectEv
+                0x023ff584        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
+                0x023ff584                spark::WiFiClass::disconnect()
+ .text._ZN5spark9WiFiClass7connectEj
+                0x023ff58e        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
+                0x023ff58e                spark::WiFiClass::connect(unsigned int)
  .text.startup._GLOBAL__sub_I__ZN10WiFiSignalC2ERK21wlan_connected_info_t
-                0x023ff584       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
+                0x023ff598       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
  .text._ZN5spark12NetworkClass7connectEj
-                0x023ff598        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
-                0x023ff598                spark::NetworkClass::connect(unsigned int)
- .text._ZN5spark12NetworkClass10disconnectEv
-                0x023ff5a2        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
-                0x023ff5a2                spark::NetworkClass::disconnect()
- .text._ZN5spark12NetworkClass10connectingEv
                 0x023ff5ac        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
-                0x023ff5ac                spark::NetworkClass::connecting()
- .text._ZN5spark12NetworkClass5readyEv
+                0x023ff5ac                spark::NetworkClass::connect(unsigned int)
+ .text._ZN5spark12NetworkClass10disconnectEv
                 0x023ff5b6        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
-                0x023ff5b6                spark::NetworkClass::ready()
+                0x023ff5b6                spark::NetworkClass::disconnect()
+ .text._ZN5spark12NetworkClass10connectingEv
+                0x023ff5c0        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
+                0x023ff5c0                spark::NetworkClass::connecting()
+ .text._ZN5spark12NetworkClass5readyEv
+                0x023ff5ca        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
+                0x023ff5ca                spark::NetworkClass::ready()
  .text._ZN5spark12NetworkClass2onEv
-                0x023ff5c0        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
-                0x023ff5c0                spark::NetworkClass::on()
+                0x023ff5d4        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
+                0x023ff5d4                spark::NetworkClass::on()
  .text._ZN5spark12NetworkClass3offEv
-                0x023ff5cc        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
-                0x023ff5cc                spark::NetworkClass::off()
+                0x023ff5e0        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
+                0x023ff5e0                spark::NetworkClass::off()
  .text._ZN5spark12NetworkClass4isOnEv
-                0x023ff5d8        0x8 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
-                0x023ff5d8                spark::NetworkClass::isOn()
+                0x023ff5ec        0x8 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
+                0x023ff5ec                spark::NetworkClass::isOn()
  .text._ZN5spark12NetworkClass5isOffEv
-                0x023ff5e0        0x8 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
-                0x023ff5e0                spark::NetworkClass::isOff()
- .text._ZN5spark12NetworkClass6listenEb
-                0x023ff5e8        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
-                0x023ff5e8                spark::NetworkClass::listen(bool)
- .text._ZN5spark12NetworkClass16setListenTimeoutEt
                 0x023ff5f4        0x8 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
-                0x023ff5f4                spark::NetworkClass::setListenTimeout(unsigned short)
+                0x023ff5f4                spark::NetworkClass::isOff()
+ .text._ZN5spark12NetworkClass6listenEb
+                0x023ff5fc        0xc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
+                0x023ff5fc                spark::NetworkClass::listen(bool)
+ .text._ZN5spark12NetworkClass16setListenTimeoutEt
+                0x023ff608        0x8 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
+                0x023ff608                spark::NetworkClass::setListenTimeout(unsigned short)
  .text._ZN5spark12NetworkClass16getListenTimeoutEv
-                0x023ff5fc        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
-                0x023ff5fc                spark::NetworkClass::getListenTimeout()
+                0x023ff610        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
+                0x023ff610                spark::NetworkClass::getListenTimeout()
  .text._ZN5spark12NetworkClass9listeningEv
-                0x023ff606        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
-                0x023ff606                spark::NetworkClass::listening()
+                0x023ff61a        0xa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
+                0x023ff61a                spark::NetworkClass::listening()
  .text._ZN5spark12NetworkClass11isPreferredEv
-                0x023ff610        0x8 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
-                0x023ff610                spark::NetworkClass::isPreferred()
+                0x023ff624        0x8 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
+                0x023ff624                spark::NetworkClass::isPreferred()
  .text._ZN5spark12NetworkClass7resolveEPKcb
-                0x023ff618       0xfc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
-                0x023ff618                spark::NetworkClass::resolve(char const*, bool)
+                0x023ff62c       0xfc ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
+                0x023ff62c                spark::NetworkClass::resolve(char const*, bool)
  .text._ZN5spark12NetworkClass4fromEm
-                0x023ff714       0x18 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
-                0x023ff714                spark::NetworkClass::from(unsigned long)
+                0x023ff728       0x18 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
+                0x023ff728                spark::NetworkClass::from(unsigned long)
  .text._ZN5spark12NetworkClass6preferEb
-                0x023ff72c       0x12 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
-                0x023ff72c                spark::NetworkClass::prefer(bool)
- *fill*         0x023ff73e        0x2 
+                0x023ff740       0x12 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
+                0x023ff740                spark::NetworkClass::prefer(bool)
+ *fill*         0x023ff752        0x2 
  .text.startup._GLOBAL__sub_I__ZN5spark7NetworkE
-                0x023ff740       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
- .text.__tcf_0  0x023ff754        0x2 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
- *fill*         0x023ff756        0x2 
+                0x023ff754       0x14 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
+ .text.__tcf_0  0x023ff768        0x2 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
+ *fill*         0x023ff76a        0x2 
  .text._ZN12_GLOBAL__N_118defaultUsartConfigEv
-                0x023ff758       0x34 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
- .text.__tcf_2  0x023ff78c        0x2 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
- .text.__tcf_1  0x023ff78e        0x2 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
+                0x023ff76c       0x34 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
+ .text.__tcf_2  0x023ff7a0        0x2 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
+ .text.__tcf_1  0x023ff7a2        0x2 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
  .text._Z20acquireSerial1Bufferv
-                0x023ff790        0xc ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
-                0x023ff790                acquireSerial1Buffer()
+                0x023ff7a4        0xc ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
+                0x023ff7a4                acquireSerial1Buffer()
  .text._Z20acquireSerial2Bufferv
-                0x023ff79c        0xc ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
-                0x023ff79c                acquireSerial2Buffer()
+                0x023ff7b0        0xc ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
+                0x023ff7b0                acquireSerial2Buffer()
  .text._Z20acquireSerial3Bufferv
-                0x023ff7a8        0xc ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
-                0x023ff7a8                acquireSerial3Buffer()
+                0x023ff7bc        0xc ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
+                0x023ff7bc                acquireSerial3Buffer()
  .text._Z22__fetch_global_Serial1v
-                0x023ff7b4       0x48 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
-                0x023ff7b4                __fetch_global_Serial1()
+                0x023ff7c8       0x48 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
+                0x023ff7c8                __fetch_global_Serial1()
  .text._Z22__fetch_global_Serial2v
-                0x023ff7fc       0x44 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
-                0x023ff7fc                __fetch_global_Serial2()
+                0x023ff810       0x44 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
+                0x023ff810                __fetch_global_Serial2()
  .text._Z15serialEventRun2v
-                0x023ff840       0x28 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
-                0x023ff840                serialEventRun2()
+                0x023ff854       0x28 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
+                0x023ff854                serialEventRun2()
  .text._Z22__fetch_global_Serial3v
-                0x023ff868       0x44 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
-                0x023ff868                __fetch_global_Serial3()
+                0x023ff87c       0x44 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
+                0x023ff87c                __fetch_global_Serial3()
  .text._Z15serialEventRun3v
-                0x023ff8ac       0x28 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
-                0x023ff8ac                serialEventRun3()
+                0x023ff8c0       0x28 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
+                0x023ff8c0                serialEventRun3()
  .text._ZnwjRKSt9nothrow_t
-                0x023ff8d4        0x4 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libstdc++_nano.a(new_opnt.o)
-                0x023ff8d4                operator new(unsigned int, std::nothrow_t const&)
+                0x023ff8e8        0x4 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libstdc++_nano.a(new_opnt.o)
+                0x023ff8e8                operator new(unsigned int, std::nothrow_t const&)
  .text._ZnajRKSt9nothrow_t
-                0x023ff8d8        0x4 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libstdc++_nano.a(new_opvnt.o)
-                0x023ff8d8                operator new[](unsigned int, std::nothrow_t const&)
- .text.atexit   0x023ff8dc        0xc c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-atexit.o)
-                0x023ff8dc                atexit
- .text.isprint  0x023ff8e8       0x10 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-isprint.o)
-                0x023ff8e8                isprint
- .text.memcpy   0x023ff8f8       0x1a c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
-                0x023ff8f8                memcpy
- .text.memmove  0x023ff912       0x34 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-memmove.o)
-                0x023ff912                memmove
- .text.memset   0x023ff946       0x10 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-memset.o)
-                0x023ff946                memset
- *fill*         0x023ff956        0x2 
- .text.srand    0x023ff958       0x5c c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-rand.o)
-                0x023ff958                srand
- .text.strchr   0x023ff9b4       0x1a c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-strchr.o)
-                0x023ff9b4                strchr
+                0x023ff8ec        0x4 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libstdc++_nano.a(new_opvnt.o)
+                0x023ff8ec                operator new[](unsigned int, std::nothrow_t const&)
+ .text.atexit   0x023ff8f0        0xc c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-atexit.o)
+                0x023ff8f0                atexit
+ .text.isprint  0x023ff8fc       0x10 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-isprint.o)
+                0x023ff8fc                isprint
+ .text.memcpy   0x023ff90c       0x1a c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+                0x023ff90c                memcpy
+ .text.memmove  0x023ff926       0x34 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-memmove.o)
+                0x023ff926                memmove
+ .text.memset   0x023ff95a       0x10 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-memset.o)
+                0x023ff95a                memset
+ *fill*         0x023ff96a        0x2 
+ .text.srand    0x023ff96c       0x5c c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-rand.o)
+                0x023ff96c                srand
+ .text.strchr   0x023ff9c8       0x1a c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-strchr.o)
+                0x023ff9c8                strchr
  .text.strchrnul
-                0x023ff9ce       0x14 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-strchrnul.o)
-                0x023ff9ce                strchrnul
- .text.strcpy   0x023ff9e2       0x10 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-strcpy.o)
-                0x023ff9e2                strcpy
- .text.strncmp  0x023ff9f2       0x28 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-strncmp.o)
-                0x023ff9f2                strncmp
- .text.strrchr  0x023ffa1a       0x28 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-strrchr.o)
-                0x023ffa1a                strrchr
- *fill*         0x023ffa42        0x2 
+                0x023ff9e2       0x14 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-strchrnul.o)
+                0x023ff9e2                strchrnul
+ .text.strcpy   0x023ff9f6       0x10 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-strcpy.o)
+                0x023ff9f6                strcpy
+ .text.strncmp  0x023ffa06       0x28 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-strncmp.o)
+                0x023ffa06                strncmp
+ .text.strrchr  0x023ffa2e       0x28 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-strrchr.o)
+                0x023ffa2e                strrchr
+ *fill*         0x023ffa56        0x2 
  .text._strtol_l.constprop.0
-                0x023ffa44      0x104 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-strtol.o)
- .text.strtol   0x023ffb48       0x14 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-strtol.o)
-                0x023ffb48                strtol
+                0x023ffa58      0x104 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-strtol.o)
+ .text.strtol   0x023ffb5c       0x14 c:/users/vu287/.particle/toolchains/gcc-arm/10.2.1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(lib_a-strtol.o)
+                0x023ffb5c                strtol
  *(.image2.ram.text)
  *(.image2.ram.text.*)
  *(.image2.net.ram.text)
@@ -104868,21 +104867,19 @@ END GROUP
  *(.ram.text.*)
  *(.gnu.linkonce.t.*)
  *(.glue_7)
- .glue_7        0x023ffb5c        0x0 linker stubs
+ .glue_7        0x023ffb70        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x023ffb5c        0x0 linker stubs
-                0x023ffb5c                . = ALIGN (0x4)
-                0x023ffb5c                link_const_data_start = .
+ .glue_7t       0x023ffb70        0x0 linker stubs
+                0x023ffb70                . = ALIGN (0x4)
+                0x023ffb70                link_const_data_start = .
  *(.rodata)
  *(.rodata*)
  .rodata.dynalib_user
-                0x023ffb5c       0x10 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/user_export.o
-                0x023ffb5c                dynalib_user
+                0x023ffb70       0x10 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/user_export.o
+                0x023ffb70                dynalib_user
  .rodata.__cxa_pure_virtual.str1.1
-                0x023ffb6c       0x15 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/newlib_stubs.o
- .rodata.loop.str1.1
-                0x023ffb81       0x16 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- *fill*         0x023ffb97        0x1 
+                0x023ffb80       0x15 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/newlib_stubs.o
+ *fill*         0x023ffb95        0x3 
  .rodata._ZTVN5spark10LogHandlerE
                 0x023ffb98       0x18 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
                 0x023ffb98                vtable for spark::LogHandler
@@ -104995,15 +104992,15 @@ END GROUP
                 0x023ffff8                . = ALIGN (0x4)
                 0x023ffff8                link_psram_code_end = .
 
-.data_alt       0x023ffff8        0x0 load address 0x085fefe0
-                0x085fefe0                link_global_data_initial_values_alt = LOADADDR (.data_alt)
+.data_alt       0x023ffff8        0x0 load address 0x085fefb8
+                0x085fefb8                link_global_data_initial_values_alt = LOADADDR (.data_alt)
                 0x023ffff8                . = ALIGN (0x4)
                 0x023ffff8                link_global_data_start_alt = .
  *(.psram.data*)
                 0x023ffff8                . = ALIGN (0x4)
                 0x023ffff8                link_global_data_end_alt = .
 
-.bss_alt        0x023ffff8        0x0 load address 0x085fefe0
+.bss_alt        0x023ffff8        0x0 load address 0x085fefb8
                 0x023ffff8                . = ALIGN (0x4)
                 0x023ffff8                link_bss_location_alt = .
  *(.psram.bss*)
@@ -105014,8 +105011,8 @@ END GROUP
                 0x1007ae52        0x0
                 0x1007ae52                link_static_ram_start = .
 
-.data           0x1007ae54       0x74 load address 0x085fefe0
-                0x085fefe0                link_global_data_initial_values = LOADADDR (.data)
+.data           0x1007ae54       0x74 load address 0x085fefb8
+                0x085fefb8                link_global_data_initial_values = LOADADDR (.data)
                 0x1007ae54                . = ALIGN (0x4)
                 0x1007ae54                link_global_data_start = .
  *(.data*)
@@ -105037,7 +105034,7 @@ END GROUP
                 0x1007aec8                . = ALIGN (0x4)
                 0x1007aec8                link_global_data_end = .
 
-.igot.plt       0x1007aec8        0x0 load address 0x085ff054
+.igot.plt       0x1007aec8        0x0 load address 0x085ff02c
  .igot.plt      0x1007aec8        0x0 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/user_export.o
 
 .bss            0x1007aec8      0x134
@@ -105122,15 +105119,15 @@ END GROUP
                 0x1007affc                link_static_ram_end = .
 
 .secure_ram_text
-                0x1007d000        0x0 load address 0x085ff054
-                0x085ff054                link_secure_ram_code_flash_start = LOADADDR (.secure_ram_text)
+                0x1007d000        0x0 load address 0x085ff02c
+                0x085ff02c                link_secure_ram_code_flash_start = LOADADDR (.secure_ram_text)
                 0x1007d000                . = ALIGN (0x4)
                 0x1007d000                link_secure_ram_code_start = .
                 0x1007d000                link_secure_ram_code_end = .
                 0x1007d000                . = ALIGN (0x4)
 
-.backup         0x1007b400        0x4 load address 0x085ff054
-                0x085ff054                link_global_retained_initial_values = LOADADDR (.backup)
+.backup         0x1007b400        0x4 load address 0x085ff02c
+                0x085ff02c                link_global_retained_initial_values = LOADADDR (.backup)
                 0x1007b400                link_global_retained_start = .
  *(.retained_user*)
  .retained_user
@@ -105139,11 +105136,11 @@ END GROUP
                 0x1007b404                . = ALIGN (., 0x4)
 
 .module_info_suffix_align
-                0x085ff058      0xf60
-                0x085ff058                . = ALIGN (0x4)
+                0x085ff030      0xf88
+                0x085ff030                . = ALIGN (0x4)
  FILL mask 0xffff
                 0x085fffb8                . = DEFINED (platform_module_info_suffix_size)?((ORIGIN (APP_FLASH) + LENGTH (APP_FLASH)) - platform_module_info_suffix_size):.
- *fill*         0x085ff058      0xf60 ffff
+ *fill*         0x085ff030      0xf88 ffff
 
 .module_info_product
                 0x085fffb8        0x6
@@ -105492,46 +105489,46 @@ END GROUP
 OUTPUT(c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2/bluetoothtest_fi.elf elf32-littlearm)
 LOAD linker stubs
 
-.debug_info     0x00000000   0x1bef03
+.debug_info     0x00000000   0x1beed0
  .debug_info    0x00000000      0x30b c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/user_export.o
  .debug_info    0x0000030b      0x70a c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/module_info.o
  .debug_info    0x00000a15       0x89 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/user_module.o
  .debug_info    0x00000a9e      0xfed c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/newlib_stubs.o
- .debug_info    0x00001a8b    0x14950 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .debug_info    0x000163db      0x1af ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_netdb.o)
- .debug_info    0x0001658a      0x7e1 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_ifapi.o)
- .debug_info    0x00016d6b      0x6f6 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_dynalib.o)
- .debug_info    0x00017461      0x912 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_concurrent.o)
- .debug_info    0x00017d73      0x2e0 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_inet.o)
- .debug_info    0x00018053      0x48b ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
- .debug_info    0x000184de      0x61b ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
- .debug_info    0x00018af9      0xd5c ../../../build/target/services-dynalib/platform-32-m/\libservices-dynalib.a(services_dynalib.o)
- .debug_info    0x00019855      0xdbb ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib.o)
- .debug_info    0x0001a610      0x5bc ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
- .debug_info    0x0001abcc      0x50e ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_cloud.o)
- .debug_info    0x0001b0da      0x636 ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
- .debug_info    0x0001b710     0x38a1 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
- .debug_info    0x0001efb1    0x5d8bb ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_variant.o)
- .debug_info    0x0007c86c    0x31235 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_cloud_event.o)
- .debug_info    0x000adaa1    0x153e2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_system.o)
- .debug_info    0x000c2e83     0x71a4 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
- .debug_info    0x000ca027    0x56484 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ble.o)
- .debug_info    0x001204ab    0x121fa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
- .debug_info    0x001326a5     0x823c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_stream.o)
- .debug_info    0x0013a8e1    0x1d1e1 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
- .debug_info    0x00157ac2    0x1a238 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_time.o)
- .debug_info    0x00171cfa     0x6eee ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring.o)
- .debug_info    0x00178be8     0x33c1 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_rgb.o)
- .debug_info    0x0017bfa9     0x9691 ../../../build/target/wiring/platform-32-m/\libwiring.a(user.o)
- .debug_info    0x0018563a     0x2f8c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ipaddress.o)
- .debug_info    0x001885c6     0x41e6 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
- .debug_info    0x0018c7ac     0xb527 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
- .debug_info    0x00197cd3     0x2134 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
- .debug_info    0x00199e07     0x4e1a ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_i2c.o)
- .debug_info    0x0019ec21     0x611b ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
- .debug_info    0x001a4d3c    0x133d6 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
- .debug_info    0x001b8112     0x190e ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
- .debug_info    0x001b9a20     0x54e3 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(spark_wiring_watchdog.o)
+ .debug_info    0x00001a8b    0x1491d ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .debug_info    0x000163a8      0x1af ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_netdb.o)
+ .debug_info    0x00016557      0x7e1 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_ifapi.o)
+ .debug_info    0x00016d38      0x6f6 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_dynalib.o)
+ .debug_info    0x0001742e      0x912 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_concurrent.o)
+ .debug_info    0x00017d40      0x2e0 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_inet.o)
+ .debug_info    0x00018020      0x48b ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
+ .debug_info    0x000184ab      0x61b ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
+ .debug_info    0x00018ac6      0xd5c ../../../build/target/services-dynalib/platform-32-m/\libservices-dynalib.a(services_dynalib.o)
+ .debug_info    0x00019822      0xdbb ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib.o)
+ .debug_info    0x0001a5dd      0x5bc ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
+ .debug_info    0x0001ab99      0x50e ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_cloud.o)
+ .debug_info    0x0001b0a7      0x636 ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
+ .debug_info    0x0001b6dd     0x38a1 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
+ .debug_info    0x0001ef7e    0x5d8bb ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_variant.o)
+ .debug_info    0x0007c839    0x31235 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_cloud_event.o)
+ .debug_info    0x000ada6e    0x153e2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_system.o)
+ .debug_info    0x000c2e50     0x71a4 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
+ .debug_info    0x000c9ff4    0x56484 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ble.o)
+ .debug_info    0x00120478    0x121fa ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
+ .debug_info    0x00132672     0x823c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_stream.o)
+ .debug_info    0x0013a8ae    0x1d1e1 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+ .debug_info    0x00157a8f    0x1a238 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_time.o)
+ .debug_info    0x00171cc7     0x6eee ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring.o)
+ .debug_info    0x00178bb5     0x33c1 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_rgb.o)
+ .debug_info    0x0017bf76     0x9691 ../../../build/target/wiring/platform-32-m/\libwiring.a(user.o)
+ .debug_info    0x00185607     0x2f8c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ipaddress.o)
+ .debug_info    0x00188593     0x41e6 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
+ .debug_info    0x0018c779     0xb527 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
+ .debug_info    0x00197ca0     0x2134 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
+ .debug_info    0x00199dd4     0x4e1a ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_i2c.o)
+ .debug_info    0x0019ebee     0x611b ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
+ .debug_info    0x001a4d09    0x133d6 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
+ .debug_info    0x001b80df     0x190e ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
+ .debug_info    0x001b99ed     0x54e3 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(spark_wiring_watchdog.o)
 
 .debug_abbrev   0x00000000    0x14731
  .debug_abbrev  0x00000000      0x162 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/user_export.o
@@ -106140,46 +106137,46 @@ LOAD linker stubs
  .debug_macro   0x0003ece2      0xbb6 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(spark_wiring_watchdog.o)
  .debug_macro   0x0003f898      0xc7c ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(spark_wiring_watchdog.o)
 
-.debug_line     0x00000000    0x50f4d
+.debug_line     0x00000000    0x50f42
  .debug_line    0x00000000      0x7ff c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/user_export.o
  .debug_line    0x000007ff      0x4f5 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/module_info.o
  .debug_line    0x00000cf4       0xb8 c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/user_module.o
  .debug_line    0x00000dac      0x8db c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/newlib_stubs.o
- .debug_line    0x00001687     0x2bc0 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
- .debug_line    0x00004247      0x16d ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_netdb.o)
- .debug_line    0x000043b4      0x33e ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_ifapi.o)
- .debug_line    0x000046f2      0x64a ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_dynalib.o)
- .debug_line    0x00004d3c      0x3ae ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_concurrent.o)
- .debug_line    0x000050ea      0x1c5 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_inet.o)
- .debug_line    0x000052af      0x25d ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
- .debug_line    0x0000550c      0x621 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
- .debug_line    0x00005b2d      0x499 ../../../build/target/services-dynalib/platform-32-m/\libservices-dynalib.a(services_dynalib.o)
- .debug_line    0x00005fc6      0x917 ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib.o)
- .debug_line    0x000068dd      0x236 ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
- .debug_line    0x00006b13      0x55b ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_cloud.o)
- .debug_line    0x0000706e      0x2c3 ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
- .debug_line    0x00007331     0x1a3f ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
- .debug_line    0x00008d70     0xaa63 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_variant.o)
- .debug_line    0x000137d3     0x6d44 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_cloud_event.o)
- .debug_line    0x0001a517     0x3242 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_system.o)
- .debug_line    0x0001d759     0x2adf ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
- .debug_line    0x00020238     0xe67c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ble.o)
- .debug_line    0x0002e8b4     0x1e43 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
- .debug_line    0x000306f7     0x296d ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_stream.o)
- .debug_line    0x00033064     0x53e1 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
- .debug_line    0x00038445     0x2840 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_time.o)
- .debug_line    0x0003ac85     0x237f ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring.o)
- .debug_line    0x0003d004     0x13b4 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_rgb.o)
- .debug_line    0x0003e3b8     0x2202 ../../../build/target/wiring/platform-32-m/\libwiring.a(user.o)
- .debug_line    0x000405ba     0x11c5 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ipaddress.o)
- .debug_line    0x0004177f     0x1d3e ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
- .debug_line    0x000434bd     0x2a5f ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
- .debug_line    0x00045f1c     0x1620 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
- .debug_line    0x0004753c     0x1b2f ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_i2c.o)
- .debug_line    0x0004906b     0x1edd ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
- .debug_line    0x0004af48     0x397b ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
- .debug_line    0x0004e8c3     0x11e8 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
- .debug_line    0x0004faab     0x14a2 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(spark_wiring_watchdog.o)
+ .debug_line    0x00001687     0x2bb5 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+ .debug_line    0x0000423c      0x16d ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_netdb.o)
+ .debug_line    0x000043a9      0x33e ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_ifapi.o)
+ .debug_line    0x000046e7      0x64a ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_dynalib.o)
+ .debug_line    0x00004d31      0x3ae ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_concurrent.o)
+ .debug_line    0x000050df      0x1c5 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_inet.o)
+ .debug_line    0x000052a4      0x25d ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
+ .debug_line    0x00005501      0x621 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
+ .debug_line    0x00005b22      0x499 ../../../build/target/services-dynalib/platform-32-m/\libservices-dynalib.a(services_dynalib.o)
+ .debug_line    0x00005fbb      0x917 ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib.o)
+ .debug_line    0x000068d2      0x236 ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
+ .debug_line    0x00006b08      0x55b ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_cloud.o)
+ .debug_line    0x00007063      0x2c3 ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
+ .debug_line    0x00007326     0x1a3f ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
+ .debug_line    0x00008d65     0xaa63 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_variant.o)
+ .debug_line    0x000137c8     0x6d44 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_cloud_event.o)
+ .debug_line    0x0001a50c     0x3242 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_system.o)
+ .debug_line    0x0001d74e     0x2adf ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
+ .debug_line    0x0002022d     0xe67c ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ble.o)
+ .debug_line    0x0002e8a9     0x1e43 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
+ .debug_line    0x000306ec     0x296d ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_stream.o)
+ .debug_line    0x00033059     0x53e1 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+ .debug_line    0x0003843a     0x2840 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_time.o)
+ .debug_line    0x0003ac7a     0x237f ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring.o)
+ .debug_line    0x0003cff9     0x13b4 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_rgb.o)
+ .debug_line    0x0003e3ad     0x2202 ../../../build/target/wiring/platform-32-m/\libwiring.a(user.o)
+ .debug_line    0x000405af     0x11c5 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ipaddress.o)
+ .debug_line    0x00041774     0x1d3e ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
+ .debug_line    0x000434b2     0x2a5f ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_json.o)
+ .debug_line    0x00045f11     0x1620 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usartserial.o)
+ .debug_line    0x00047531     0x1b2f ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_i2c.o)
+ .debug_line    0x00049060     0x1edd ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_wifi.o)
+ .debug_line    0x0004af3d     0x397b ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_network.o)
+ .debug_line    0x0004e8b8     0x11e8 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(wiring_globals_usart.o)
+ .debug_line    0x0004faa0     0x14a2 ../../../build/target/wiring_globals/platform-32-m/\libwiring_globals.a(spark_wiring_watchdog.o)
 
 .debug_str      0x00000000   0x17dc94
  .debug_str     0x00000000    0x126cc c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/user_export.o
@@ -106190,59 +106187,59 @@ LOAD linker stubs
                                0x3332 (size before relaxing)
  .debug_str     0x00012f37    0x13f9e c:/Users/vu287/Coding/EE1301~3/EE1301-Final-Project/Software/BLUETO~1/bluetoothtest/target/6.3.5/p2//obj/./src/newlib_stubs.o
                               0x1c5dc (size before relaxing)
- .debug_str     0x00026ed5    0x3ec13 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
-                              0x642ef (size before relaxing)
- .debug_str     0x00065ae8      0x706 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_netdb.o)
+ .debug_str     0x00026ed5    0x3ebf2 ../../../build/target/user/platform-32-m/bluetoothtest/\libuser.a(bluetoothtest.o)
+                              0x642ce (size before relaxing)
+ .debug_str     0x00065ac7      0x706 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_netdb.o)
                                0x4db1 (size before relaxing)
- .debug_str     0x000661ee      0x4c5 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_ifapi.o)
+ .debug_str     0x000661cd      0x4c5 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_ifapi.o)
                                0x52a9 (size before relaxing)
- .debug_str     0x000666b3      0x42e ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_dynalib.o)
+ .debug_str     0x00066692      0x42e ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_dynalib.o)
                                0xa4fa (size before relaxing)
- .debug_str     0x00066ae1      0x6c4 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_concurrent.o)
+ .debug_str     0x00066ac0      0x6c4 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_concurrent.o)
                                0x5573 (size before relaxing)
- .debug_str     0x000671a5      0x1ba ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_inet.o)
+ .debug_str     0x00067184      0x1ba ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_inet.o)
                                0x4e54 (size before relaxing)
- .debug_str     0x0006735f      0x343 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
+ .debug_str     0x0006733e      0x343 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usart.o)
                                0x513f (size before relaxing)
- .debug_str     0x000676a2      0x5e9 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
+ .debug_str     0x00067681      0x5e9 ../../../build/target/hal-dynalib/platform-32-m/\libhal-dynalib.a(hal_usb.o)
                               0x19578 (size before relaxing)
- .debug_str     0x00067c8b      0x8c8 ../../../build/target/services-dynalib/platform-32-m/\libservices-dynalib.a(services_dynalib.o)
+ .debug_str     0x00067c6a      0x8c8 ../../../build/target/services-dynalib/platform-32-m/\libservices-dynalib.a(services_dynalib.o)
                                0x42d8 (size before relaxing)
- .debug_str     0x00068553      0x9f7 ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib.o)
+ .debug_str     0x00068532      0x9f7 ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib.o)
                               0x1b3af (size before relaxing)
- .debug_str     0x00068f4a      0x417 ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
+ .debug_str     0x00068f29      0x417 ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_net.o)
                                0x3c74 (size before relaxing)
- .debug_str     0x00069361      0x3cd ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_cloud.o)
+ .debug_str     0x00069340      0x3cd ../../../build/target/system-dynalib/platform-32-m/\libsystem-dynalib.a(system_dynalib_cloud.o)
                                0x8ebb (size before relaxing)
- .debug_str     0x0006972e      0x433 ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
+ .debug_str     0x0006970d      0x433 ../../../build/target/rt-dynalib/platform-32-m/\librt-dynalib.a(rt_dynalib.o)
                                0x4f99 (size before relaxing)
- .debug_str     0x00069b61      0x765 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
+ .debug_str     0x00069b40      0x765 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ethernet.o)
                               0x38223 (size before relaxing)
- .debug_str     0x0006a2c6    0x9171b ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_variant.o)
+ .debug_str     0x0006a2a5    0x9171b ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_variant.o)
                               0xbab9b (size before relaxing)
- .debug_str     0x000fb9e1    0x17bce ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_cloud_event.o)
+ .debug_str     0x000fb9c0    0x17bce ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_cloud_event.o)
                               0x92f73 (size before relaxing)
- .debug_str     0x001135af     0x3bfd ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_system.o)
+ .debug_str     0x0011358e     0x3bfd ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_system.o)
                               0x59686 (size before relaxing)
- .debug_str     0x001171ac      0x40b ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
+ .debug_str     0x0011718b      0x40b ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_string.o)
                               0x11a10 (size before relaxing)
- .debug_str     0x001175b7    0x41e96 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ble.o)
+ .debug_str     0x00117596    0x41e96 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ble.o)
                               0x7bb91 (size before relaxing)
- .debug_str     0x0015944d     0x1239 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
+ .debug_str     0x0015942c     0x124d ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_print.o)
                               0x40770 (size before relaxing)
- .debug_str     0x0015a686      0x528 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_stream.o)
+ .debug_str     0x0015a679      0x528 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_stream.o)
                               0x4bdb0 (size before relaxing)
- .debug_str     0x0015abae     0x6198 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
+ .debug_str     0x0015aba1     0x6198 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_logging.o)
                               0x51e24 (size before relaxing)
- .debug_str     0x00160d46     0x8dd8 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_time.o)
+ .debug_str     0x00160d39     0x8dd8 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_time.o)
                               0x66068 (size before relaxing)
- .debug_str     0x00169b1e       0xc2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring.o)
+ .debug_str     0x00169b11       0xc2 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring.o)
                               0x4b7a1 (size before relaxing)
- .debug_str     0x00169be0     0x137a ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_rgb.o)
+ .debug_str     0x00169bd3     0x137a ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_rgb.o)
                               0x29b1a (size before relaxing)
- .debug_str     0x0016af5a     0x34cb ../../../build/target/wiring/platform-32-m/\libwiring.a(user.o)
+ .debug_str     0x0016af4d     0x34cb ../../../build/target/wiring/platform-32-m/\libwiring.a(user.o)
                               0x4d722 (size before relaxing)
- .debug_str     0x0016e425      0x486 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ipaddress.o)
+ .debug_str     0x0016e418      0x493 ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_ipaddress.o)
                               0x2f20a (size before relaxing)
  .debug_str     0x0016e8ab      0x3cf ../../../build/target/wiring/platform-32-m/\libwiring.a(spark_wiring_usbserial.o)
                               0x3ebce (size before relaxing)
